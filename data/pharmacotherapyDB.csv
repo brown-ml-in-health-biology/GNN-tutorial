@@ -1,0 +1,1137 @@
+doid_id,drugbank_id,disease_name,drug_name,effect,Y
+DOID:9206,DB00736,Barrett's esophagus,Esomeprazole,Drug# treats Disease#,0
+DOID:9206,DB00338,Barrett's esophagus,Omeprazole,Drug# treats Disease#,0
+DOID:12361,DB00763,Graves' disease,Methimazole,Drug# treats Disease#,0
+DOID:12361,DB00550,Graves' disease,Propylthiouracil,Drug# treats Disease#,0
+DOID:12361,DB00509,Graves' disease,Dextrothyroxine,Drug# neither treats nor palliates Disease#,2
+DOID:12361,DB00451,Graves' disease,Levothyroxine,Drug# neither treats nor palliates Disease#,2
+DOID:12361,DB00279,Graves' disease,Liothyronine,Drug# neither treats nor palliates Disease#,2
+DOID:12361,DB01583,Graves' disease,Liotrix,Drug# neither treats nor palliates Disease#,2
+DOID:13378,DB00945,Kawasaki disease,Acetylsalicylic acid,Drug# treats Disease#,0
+DOID:5408,DB00630,Paget's disease of bone,Alendronate,Drug# treats Disease#,0
+DOID:5408,DB01077,Paget's disease of bone,Etidronic acid,Drug# treats Disease#,0
+DOID:5408,DB00282,Paget's disease of bone,Pamidronate,Drug# treats Disease#,0
+DOID:5408,DB00884,Paget's disease of bone,Risedronate,Drug# treats Disease#,0
+DOID:5408,DB01133,Paget's disease of bone,Tiludronate,Drug# treats Disease#,0
+DOID:5408,DB00399,Paget's disease of bone,Zoledronate,Drug# treats Disease#,0
+DOID:14330,DB00915,Parkinson's disease,Amantadine,Drug# palliates Disease#,1
+DOID:14330,DB00714,Parkinson's disease,Apomorphine,Drug# palliates Disease#,1
+DOID:14330,DB00572,Parkinson's disease,Atropine,Drug# palliates Disease#,1
+DOID:14330,DB00245,Parkinson's disease,Benzatropine,Drug# palliates Disease#,1
+DOID:14330,DB00810,Parkinson's disease,Biperiden,Drug# palliates Disease#,1
+DOID:14330,DB01200,Parkinson's disease,Bromocriptine,Drug# palliates Disease#,1
+DOID:14330,DB00248,Parkinson's disease,Cabergoline,Drug# palliates Disease#,1
+DOID:14330,DB00190,Parkinson's disease,Carbidopa,Drug# palliates Disease#,1
+DOID:14330,DB01068,Parkinson's disease,Clonazepam,Drug# palliates Disease#,1
+DOID:14330,DB01075,Parkinson's disease,Diphenhydramine,Drug# palliates Disease#,1
+DOID:14330,DB00494,Parkinson's disease,Entacapone,Drug# palliates Disease#,1
+DOID:14330,DB00687,Parkinson's disease,Fludrocortisone,Drug# palliates Disease#,1
+DOID:14330,DB00996,Parkinson's disease,Gabapentin,Drug# palliates Disease#,1
+DOID:14330,DB00424,Parkinson's disease,Hyoscyamine,Drug# palliates Disease#,1
+DOID:14330,DB01235,Parkinson's disease,L-DOPA,Drug# palliates Disease#,1
+DOID:14330,DB01043,Parkinson's disease,Memantine,Drug# palliates Disease#,1
+DOID:14330,DB00745,Parkinson's disease,Modafinil,Drug# palliates Disease#,1
+DOID:14330,DB01186,Parkinson's disease,Pergolide,Drug# palliates Disease#,1
+DOID:14330,DB00413,Parkinson's disease,Pramipexole,Drug# palliates Disease#,1
+DOID:14330,DB00387,Parkinson's disease,Procyclidine,Drug# palliates Disease#,1
+DOID:14330,DB00980,Parkinson's disease,Ramelteon,Drug# palliates Disease#,1
+DOID:14330,DB01367,Parkinson's disease,Rasagiline,Drug# palliates Disease#,1
+DOID:14330,DB00989,Parkinson's disease,Rivastigmine,Drug# palliates Disease#,1
+DOID:14330,DB00268,Parkinson's disease,Ropinirole,Drug# palliates Disease#,1
+DOID:14330,DB05271,Parkinson's disease,Rotigotine,Drug# palliates Disease#,1
+DOID:14330,DB01037,Parkinson's disease,Selegiline,Drug# palliates Disease#,1
+DOID:14330,DB00323,Parkinson's disease,Tolcapone,Drug# palliates Disease#,1
+DOID:14330,DB00376,Parkinson's disease,Trihexyphenidyl,Drug# palliates Disease#,1
+DOID:14330,DB00215,Parkinson's disease,Citalopram,Drug# neither treats nor palliates Disease#,2
+DOID:14330,DB00985,Parkinson's disease,Dimenhydrinate,Drug# neither treats nor palliates Disease#,2
+DOID:14330,DB01175,Parkinson's disease,Escitalopram,Drug# neither treats nor palliates Disease#,2
+DOID:14330,DB01224,Parkinson's disease,Quetiapine,Drug# neither treats nor palliates Disease#,2
+DOID:14330,DB00747,Parkinson's disease,Scopolamine,Drug# neither treats nor palliates Disease#,2
+DOID:14330,DB01104,Parkinson's disease,Sertraline,Drug# neither treats nor palliates Disease#,2
+DOID:14330,DB00425,Parkinson's disease,Zolpidem,Drug# neither treats nor palliates Disease#,2
+DOID:635,DB01048,acquired immunodeficiency syndrome,Abacavir,Drug# treats Disease#,0
+DOID:635,DB00701,acquired immunodeficiency syndrome,Amprenavir,Drug# treats Disease#,0
+DOID:635,DB00705,acquired immunodeficiency syndrome,Delavirdine,Drug# treats Disease#,0
+DOID:635,DB00900,acquired immunodeficiency syndrome,Didanosine,Drug# treats Disease#,0
+DOID:635,DB00625,acquired immunodeficiency syndrome,Efavirenz,Drug# treats Disease#,0
+DOID:635,DB00224,acquired immunodeficiency syndrome,Indinavir,Drug# treats Disease#,0
+DOID:635,DB00709,acquired immunodeficiency syndrome,Lamivudine,Drug# treats Disease#,0
+DOID:635,DB01601,acquired immunodeficiency syndrome,Lopinavir,Drug# treats Disease#,0
+DOID:635,DB00220,acquired immunodeficiency syndrome,Nelfinavir,Drug# treats Disease#,0
+DOID:635,DB00238,acquired immunodeficiency syndrome,Nevirapine,Drug# treats Disease#,0
+DOID:635,DB00503,acquired immunodeficiency syndrome,Ritonavir,Drug# treats Disease#,0
+DOID:635,DB01232,acquired immunodeficiency syndrome,Saquinavir,Drug# treats Disease#,0
+DOID:635,DB00649,acquired immunodeficiency syndrome,Stavudine,Drug# treats Disease#,0
+DOID:635,DB00495,acquired immunodeficiency syndrome,Zidovudine,Drug# treats Disease#,0
+DOID:635,DB00787,acquired immunodeficiency syndrome,Aciclovir,Drug# neither treats nor palliates Disease#,2
+DOID:635,DB00997,acquired immunodeficiency syndrome,Doxorubicin,Drug# neither treats nor palliates Disease#,2
+DOID:635,DB00445,acquired immunodeficiency syndrome,Epirubicin,Drug# neither treats nor palliates Disease#,2
+DOID:635,DB00196,acquired immunodeficiency syndrome,Fluconazole,Drug# neither treats nor palliates Disease#,2
+DOID:635,DB01004,acquired immunodeficiency syndrome,Ganciclovir,Drug# neither treats nor palliates Disease#,2
+DOID:635,DB00615,acquired immunodeficiency syndrome,Rifabutin,Drug# neither treats nor palliates Disease#,2
+DOID:0050741,DB00659,alcohol dependence,Acamprosate,Drug# treats Disease#,0
+DOID:0050741,DB00215,alcohol dependence,Citalopram,Drug# treats Disease#,0
+DOID:0050741,DB00822,alcohol dependence,Disulfiram,Drug# treats Disease#,0
+DOID:0050741,DB00704,alcohol dependence,Naltrexone,Drug# treats Disease#,0
+DOID:0050741,DB00475,alcohol dependence,Chlordiazepoxide,Drug# palliates Disease#,1
+DOID:0050741,DB00904,alcohol dependence,Ondansetron,Drug# palliates Disease#,1
+DOID:0050741,DB00158,alcohol dependence,Folic Acid,Drug# neither treats nor palliates Disease#,2
+DOID:4481,DB00443,allergic rhinitis,Betamethasone,Drug# treats Disease#,0
+DOID:4481,DB00341,allergic rhinitis,Cetirizine,Drug# treats Disease#,0
+DOID:4481,DB00434,allergic rhinitis,Cyproheptadine,Drug# treats Disease#,0
+DOID:4481,DB00967,allergic rhinitis,Desloratadine,Drug# treats Disease#,0
+DOID:4481,DB01234,allergic rhinitis,Dexamethasone,Drug# treats Disease#,0
+DOID:4481,DB00985,allergic rhinitis,Dimenhydrinate,Drug# treats Disease#,0
+DOID:4481,DB01075,allergic rhinitis,Diphenhydramine,Drug# treats Disease#,0
+DOID:4481,DB00180,allergic rhinitis,Flunisolide,Drug# treats Disease#,0
+DOID:4481,DB00741,allergic rhinitis,Hydrocortisone,Drug# treats Disease#,0
+DOID:4481,DB00455,allergic rhinitis,Loratadine,Drug# treats Disease#,0
+DOID:4481,DB00959,allergic rhinitis,Methylprednisolone,Drug# treats Disease#,0
+DOID:4481,DB00471,allergic rhinitis,Montelukast,Drug# treats Disease#,0
+DOID:4481,DB00768,allergic rhinitis,Olopatadine,Drug# treats Disease#,0
+DOID:4481,DB00860,allergic rhinitis,Prednisolone,Drug# treats Disease#,0
+DOID:4481,DB00620,allergic rhinitis,Triamcinolone,Drug# treats Disease#,0
+DOID:4481,DB01364,allergic rhinitis,Ephedrine,Drug# palliates Disease#,1
+DOID:4481,DB00668,allergic rhinitis,Epinephrine,Drug# palliates Disease#,1
+DOID:4481,DB00935,allergic rhinitis,Oxymetazoline,Drug# palliates Disease#,1
+DOID:4481,DB00852,allergic rhinitis,Pseudoephedrine,Drug# palliates Disease#,1
+DOID:4481,DB01001,allergic rhinitis,Salbutamol,Drug# palliates Disease#,1
+DOID:4481,DB00535,allergic rhinitis,Cefdinir,Drug# neither treats nor palliates Disease#,2
+DOID:4481,DB01190,allergic rhinitis,Clindamycin,Drug# neither treats nor palliates Disease#,2
+DOID:4481,DB00736,allergic rhinitis,Esomeprazole,Drug# neither treats nor palliates Disease#,2
+DOID:4481,DB00338,allergic rhinitis,Omeprazole,Drug# neither treats nor palliates Disease#,2
+DOID:986,DB00620,alopecia areata,Triamcinolone,Drug# treats Disease#,0
+DOID:332,DB00740,amyotrophic lateral sclerosis,Riluzole,Drug# treats Disease#,0
+DOID:332,DB00514,amyotrophic lateral sclerosis,Dextromethorphan,Drug# palliates Disease#,1
+DOID:2841,DB01223,asthma,Aminophylline,Drug# treats Disease#,0
+DOID:2841,DB01274,asthma,Arformoterol,Drug# treats Disease#,0
+DOID:2841,DB00394,asthma,Beclomethasone,Drug# treats Disease#,0
+DOID:2841,DB00443,asthma,Betamethasone,Drug# treats Disease#,0
+DOID:2841,DB01222,asthma,Budesonide,Drug# treats Disease#,0
+DOID:2841,DB01410,asthma,Ciclesonide,Drug# treats Disease#,0
+DOID:2841,DB01003,asthma,Cromoglicic acid,Drug# treats Disease#,0
+DOID:2841,DB01234,asthma,Dexamethasone,Drug# treats Disease#,0
+DOID:2841,DB00651,asthma,Dyphylline,Drug# treats Disease#,0
+DOID:2841,DB00180,asthma,Flunisolide,Drug# treats Disease#,0
+DOID:2841,DB00588,asthma,Fluticasone Propionate,Drug# treats Disease#,0
+DOID:2841,DB08906,asthma,Fluticasone furoate,Drug# treats Disease#,0
+DOID:2841,DB00983,asthma,Formoterol,Drug# treats Disease#,0
+DOID:2841,DB00741,asthma,Hydrocortisone,Drug# treats Disease#,0
+DOID:2841,DB05039,asthma,Indacaterol,Drug# treats Disease#,0
+DOID:2841,DB00332,asthma,Ipratropium bromide,Drug# treats Disease#,0
+DOID:2841,DB00221,asthma,Isoetarine,Drug# treats Disease#,0
+DOID:2841,DB01064,asthma,Isoprenaline,Drug# treats Disease#,0
+DOID:2841,DB00920,asthma,Ketotifen,Drug# treats Disease#,0
+DOID:2841,DB00455,asthma,Loratadine,Drug# treats Disease#,0
+DOID:2841,DB00959,asthma,Methylprednisolone,Drug# treats Disease#,0
+DOID:2841,DB00764,asthma,Mometasone,Drug# treats Disease#,0
+DOID:2841,DB00471,asthma,Montelukast,Drug# treats Disease#,0
+DOID:2841,DB00716,asthma,Nedocromil,Drug# treats Disease#,0
+DOID:2841,DB00816,asthma,Orciprenaline,Drug# treats Disease#,0
+DOID:2841,DB01291,asthma,Pirbuterol,Drug# treats Disease#,0
+DOID:2841,DB00860,asthma,Prednisolone,Drug# treats Disease#,0
+DOID:2841,DB00635,asthma,Prednisone,Drug# treats Disease#,0
+DOID:2841,DB01001,asthma,Salbutamol,Drug# treats Disease#,0
+DOID:2841,DB00938,asthma,Salmeterol,Drug# treats Disease#,0
+DOID:2841,DB00871,asthma,Terbutaline,Drug# treats Disease#,0
+DOID:2841,DB00277,asthma,Theophylline,Drug# treats Disease#,0
+DOID:2841,DB01409,asthma,Tiotropium,Drug# treats Disease#,0
+DOID:2841,DB00620,asthma,Triamcinolone,Drug# treats Disease#,0
+DOID:2841,DB05389,asthma,WF10,Drug# treats Disease#,0
+DOID:2841,DB00549,asthma,Zafirlukast,Drug# treats Disease#,0
+DOID:2841,DB00744,asthma,Zileuton,Drug# treats Disease#,0
+DOID:2841,DB01364,asthma,Ephedrine,Drug# palliates Disease#,1
+DOID:2841,DB00668,asthma,Epinephrine,Drug# palliates Disease#,1
+DOID:2841,DB00852,asthma,Pseudoephedrine,Drug# palliates Disease#,1
+DOID:2841,DB00535,asthma,Cefdinir,Drug# neither treats nor palliates Disease#,2
+DOID:2841,DB00537,asthma,Ciprofloxacin,Drug# neither treats nor palliates Disease#,2
+DOID:2841,DB01137,asthma,Levofloxacin,Drug# neither treats nor palliates Disease#,2
+DOID:2841,DB00218,asthma,Moxifloxacin,Drug# neither treats nor palliates Disease#,2
+DOID:2841,DB00440,asthma,Trimethoprim,Drug# neither treats nor palliates Disease#,2
+DOID:3310,DB00443,atopic dermatitis,Betamethasone,Drug# treats Disease#,0
+DOID:3310,DB01260,atopic dermatitis,Desonide,Drug# treats Disease#,0
+DOID:3310,DB01234,atopic dermatitis,Dexamethasone,Drug# treats Disease#,0
+DOID:3310,DB00985,atopic dermatitis,Dimenhydrinate,Drug# treats Disease#,0
+DOID:3310,DB01075,atopic dermatitis,Diphenhydramine,Drug# treats Disease#,0
+DOID:3310,DB00591,atopic dermatitis,Fluocinolone Acetonide,Drug# treats Disease#,0
+DOID:3310,DB01047,atopic dermatitis,Fluocinonide,Drug# treats Disease#,0
+DOID:3310,DB00741,atopic dermatitis,Hydrocortisone,Drug# treats Disease#,0
+DOID:3310,DB00455,atopic dermatitis,Loratadine,Drug# treats Disease#,0
+DOID:3310,DB00959,atopic dermatitis,Methylprednisolone,Drug# treats Disease#,0
+DOID:3310,DB00764,atopic dermatitis,Mometasone,Drug# treats Disease#,0
+DOID:3310,DB00337,atopic dermatitis,Pimecrolimus,Drug# treats Disease#,0
+DOID:3310,DB00860,atopic dermatitis,Prednisolone,Drug# treats Disease#,0
+DOID:3310,DB00635,atopic dermatitis,Prednisone,Drug# treats Disease#,0
+DOID:3310,DB00864,atopic dermatitis,Tacrolimus,Drug# treats Disease#,0
+DOID:3310,DB00620,atopic dermatitis,Triamcinolone,Drug# treats Disease#,0
+DOID:3310,DB01142,atopic dermatitis,Doxepin,Drug# palliates Disease#,1
+DOID:3310,DB00427,atopic dermatitis,Triprolidine,Drug# palliates Disease#,1
+DOID:3310,DB01190,atopic dermatitis,Clindamycin,Drug# neither treats nor palliates Disease#,2
+DOID:3310,DB00410,atopic dermatitis,Mupirocin,Drug# neither treats nor palliates Disease#,2
+DOID:1094,DB00182,attention deficit hyperactivity disorder,Amphetamine,Drug# palliates Disease#,1
+DOID:1094,DB00289,attention deficit hyperactivity disorder,Atomoxetine,Drug# palliates Disease#,1
+DOID:1094,DB01156,attention deficit hyperactivity disorder,Bupropion,Drug# palliates Disease#,1
+DOID:1094,DB00575,attention deficit hyperactivity disorder,Clonidine,Drug# palliates Disease#,1
+DOID:1094,DB01151,attention deficit hyperactivity disorder,Desipramine,Drug# palliates Disease#,1
+DOID:1094,DB01576,attention deficit hyperactivity disorder,Dextroamphetamine,Drug# palliates Disease#,1
+DOID:1094,DB01018,attention deficit hyperactivity disorder,Guanfacine,Drug# palliates Disease#,1
+DOID:1094,DB00458,attention deficit hyperactivity disorder,Imipramine,Drug# palliates Disease#,1
+DOID:1094,DB01255,attention deficit hyperactivity disorder,Lisdexamfetamine,Drug# palliates Disease#,1
+DOID:1094,DB01577,attention deficit hyperactivity disorder,Methamphetamine,Drug# palliates Disease#,1
+DOID:1094,DB00422,attention deficit hyperactivity disorder,Methylphenidate,Drug# palliates Disease#,1
+DOID:1094,DB00745,attention deficit hyperactivity disorder,Modafinil,Drug# palliates Disease#,1
+DOID:1094,DB00540,attention deficit hyperactivity disorder,Nortriptyline,Drug# palliates Disease#,1
+DOID:1094,DB00285,attention deficit hyperactivity disorder,Venlafaxine,Drug# palliates Disease#,1
+DOID:12849,DB01238,autistic disorder,Aripiprazole,Drug# palliates Disease#,1
+DOID:12849,DB00289,autistic disorder,Atomoxetine,Drug# palliates Disease#,1
+DOID:12849,DB00245,autistic disorder,Benzatropine,Drug# palliates Disease#,1
+DOID:12849,DB01068,autistic disorder,Clonazepam,Drug# palliates Disease#,1
+DOID:12849,DB00575,autistic disorder,Clonidine,Drug# palliates Disease#,1
+DOID:12849,DB01224,autistic disorder,Quetiapine,Drug# palliates Disease#,1
+DOID:12849,DB00734,autistic disorder,Risperidone,Drug# palliates Disease#,1
+DOID:12849,DB01104,autistic disorder,Sertraline,Drug# palliates Disease#,1
+DOID:12849,DB00583,autistic disorder,L-Carnitine,Drug# neither treats nor palliates Disease#,2
+DOID:14227,DB00882,azoospermia,Clomifene,Drug# treats Disease#,0
+DOID:184,DB00958,bone cancer,Carboplatin,Drug# treats Disease#,0
+DOID:184,DB00515,bone cancer,Cisplatin,Drug# treats Disease#,0
+DOID:184,DB00997,bone cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:184,DB00445,bone cancer,Epirubicin,Drug# treats Disease#,0
+DOID:184,DB00563,bone cancer,Methotrexate,Drug# treats Disease#,0
+DOID:184,DB00650,bone cancer,Leucovorin,Drug# neither treats nor palliates Disease#,2
+DOID:184,DB00399,bone cancer,Zoledronate,Drug# neither treats nor palliates Disease#,2
+DOID:1612,DB01217,breast cancer,Anastrozole,Drug# treats Disease#,0
+DOID:1612,DB01101,breast cancer,Capecitabine,Drug# treats Disease#,0
+DOID:1612,DB00958,breast cancer,Carboplatin,Drug# treats Disease#,0
+DOID:1612,DB00291,breast cancer,Chlorambucil,Drug# treats Disease#,0
+DOID:1612,DB01248,breast cancer,Docetaxel,Drug# treats Disease#,0
+DOID:1612,DB00997,breast cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:1612,DB00445,breast cancer,Epirubicin,Drug# treats Disease#,0
+DOID:1612,DB08871,breast cancer,Eribulin,Drug# treats Disease#,0
+DOID:1612,DB00990,breast cancer,Exemestane,Drug# treats Disease#,0
+DOID:1612,DB00544,breast cancer,Fluorouracil,Drug# treats Disease#,0
+DOID:1612,DB01185,breast cancer,Fluoxymesterone,Drug# treats Disease#,0
+DOID:1612,DB00947,breast cancer,Fulvestrant,Drug# treats Disease#,0
+DOID:1612,DB00441,breast cancer,Gemcitabine,Drug# treats Disease#,0
+DOID:1612,DB00014,breast cancer,Goserelin,Drug# treats Disease#,0
+DOID:1612,DB01177,breast cancer,Idarubicin,Drug# treats Disease#,0
+DOID:1612,DB00762,breast cancer,Irinotecan,Drug# treats Disease#,0
+DOID:1612,DB04845,breast cancer,Ixabepilone,Drug# treats Disease#,0
+DOID:1612,DB01259,breast cancer,Lapatinib,Drug# treats Disease#,0
+DOID:1612,DB01006,breast cancer,Letrozole,Drug# treats Disease#,0
+DOID:1612,DB01042,breast cancer,Melphalan,Drug# treats Disease#,0
+DOID:1612,DB00563,breast cancer,Methotrexate,Drug# treats Disease#,0
+DOID:1612,DB01204,breast cancer,Mitoxantrone,Drug# treats Disease#,0
+DOID:1612,DB01229,breast cancer,Paclitaxel,Drug# treats Disease#,0
+DOID:1612,DB00481,breast cancer,Raloxifene,Drug# treats Disease#,0
+DOID:1612,DB00675,breast cancer,Tamoxifen,Drug# treats Disease#,0
+DOID:1612,DB04572,breast cancer,Thiotepa,Drug# treats Disease#,0
+DOID:1612,DB00539,breast cancer,Toremifene,Drug# treats Disease#,0
+DOID:1612,DB00570,breast cancer,Vinblastine,Drug# treats Disease#,0
+DOID:1612,DB00361,breast cancer,Vinorelbine,Drug# treats Disease#,0
+DOID:1612,DB00673,breast cancer,Aprepitant,Drug# palliates Disease#,1
+DOID:1612,DB00443,breast cancer,Betamethasone,Drug# palliates Disease#,1
+DOID:1612,DB00286,breast cancer,Conjugated Estrogens,Drug# palliates Disease#,1
+DOID:1612,DB01234,breast cancer,Dexamethasone,Drug# palliates Disease#,1
+DOID:1612,DB00783,breast cancer,Estradiol,Drug# palliates Disease#,1
+DOID:1612,DB08866,breast cancer,Estradiol valerate/Dienogest,Drug# palliates Disease#,1
+DOID:1612,DB00655,breast cancer,Estrone,Drug# palliates Disease#,1
+DOID:1612,DB00977,breast cancer,Ethinyl Estradiol,Drug# palliates Disease#,1
+DOID:1612,DB00603,breast cancer,Medroxyprogesterone Acetate,Drug# palliates Disease#,1
+DOID:1612,DB00351,breast cancer,Megestrol acetate,Drug# palliates Disease#,1
+DOID:1612,DB06710,breast cancer,Methyltestosterone,Drug# palliates Disease#,1
+DOID:1612,DB00433,breast cancer,Prochlorperazine,Drug# palliates Disease#,1
+DOID:1612,DB00624,breast cancer,Testosterone,Drug# palliates Disease#,1
+DOID:1612,DB01420,breast cancer,Testosterone Propionate,Drug# palliates Disease#,1
+DOID:1612,DB00630,breast cancer,Alendronate,Drug# neither treats nor palliates Disease#,2
+DOID:1612,DB00380,breast cancer,Dexrazoxane,Drug# neither treats nor palliates Disease#,2
+DOID:1612,DB00282,breast cancer,Pamidronate,Drug# neither treats nor palliates Disease#,2
+DOID:1612,DB00761,breast cancer,Potassium Chloride,Drug# neither treats nor palliates Disease#,2
+DOID:1612,DB00884,breast cancer,Risedronate,Drug# neither treats nor palliates Disease#,2
+DOID:1612,DB01133,breast cancer,Tiludronate,Drug# neither treats nor palliates Disease#,2
+DOID:1612,DB00399,breast cancer,Zoledronate,Drug# neither treats nor palliates Disease#,2
+DOID:784,DB00887,chronic kidney failure,Bumetanide,Drug# palliates Disease#,1
+DOID:784,DB00136,chronic kidney failure,Calcitriol,Drug# palliates Disease#,1
+DOID:784,DB00258,chronic kidney failure,Calcium Acetate,Drug# palliates Disease#,1
+DOID:784,DB00169,chronic kidney failure,Cholecalciferol,Drug# palliates Disease#,1
+DOID:784,DB01012,chronic kidney failure,Cinacalcet,Drug# palliates Disease#,1
+DOID:784,DB00746,chronic kidney failure,Deferoxamine,Drug# palliates Disease#,1
+DOID:784,DB00903,chronic kidney failure,Ethacrynic acid,Drug# palliates Disease#,1
+DOID:784,DB00695,chronic kidney failure,Furosemide,Drug# palliates Disease#,1
+DOID:784,DB00910,chronic kidney failure,Paricalcitol,Drug# palliates Disease#,1
+DOID:784,DB00214,chronic kidney failure,Torasemide,Drug# palliates Disease#,1
+DOID:784,DB00567,chronic kidney failure,Cephalexin,Drug# neither treats nor palliates Disease#,2
+DOID:12995,DB00477,conduct disorder,Chlorpromazine,Drug# palliates Disease#,1
+DOID:12995,DB00502,conduct disorder,Haloperidol,Drug# palliates Disease#,1
+DOID:12995,DB00734,conduct disorder,Risperidone,Drug# palliates Disease#,1
+DOID:3393,DB00945,coronary artery disease,Acetylsalicylic acid,Drug# treats Disease#,0
+DOID:3393,DB01076,coronary artery disease,Atorvastatin,Drug# treats Disease#,0
+DOID:3393,DB01197,coronary artery disease,Captopril,Drug# treats Disease#,0
+DOID:3393,DB00758,coronary artery disease,Clopidogrel,Drug# treats Disease#,0
+DOID:3393,DB00584,coronary artery disease,Enalapril,Drug# treats Disease#,0
+DOID:3393,DB00700,coronary artery disease,Eplerenone,Drug# treats Disease#,0
+DOID:3393,DB00973,coronary artery disease,Ezetimibe,Drug# treats Disease#,0
+DOID:3393,DB01039,coronary artery disease,Fenofibrate,Drug# treats Disease#,0
+DOID:3393,DB00695,coronary artery disease,Furosemide,Drug# treats Disease#,0
+DOID:3393,DB01241,coronary artery disease,Gemfibrozil,Drug# treats Disease#,0
+DOID:3393,DB00722,coronary artery disease,Lisinopril,Drug# treats Disease#,0
+DOID:3393,DB00678,coronary artery disease,Losartan,Drug# treats Disease#,0
+DOID:3393,DB00227,coronary artery disease,Lovastatin,Drug# treats Disease#,0
+DOID:3393,DB00627,coronary artery disease,Niacin,Drug# treats Disease#,0
+DOID:3393,DB00275,coronary artery disease,Olmesartan,Drug# treats Disease#,0
+DOID:3393,DB01359,coronary artery disease,Penbutolol,Drug# treats Disease#,0
+DOID:3393,DB00790,coronary artery disease,Perindopril,Drug# treats Disease#,0
+DOID:3393,DB08860,coronary artery disease,Pitavastatin,Drug# treats Disease#,0
+DOID:3393,DB00175,coronary artery disease,Pravastatin,Drug# treats Disease#,0
+DOID:3393,DB00178,coronary artery disease,Ramipril,Drug# treats Disease#,0
+DOID:3393,DB01098,coronary artery disease,Rosuvastatin,Drug# treats Disease#,0
+DOID:3393,DB00641,coronary artery disease,Simvastatin,Drug# treats Disease#,0
+DOID:3393,DB00966,coronary artery disease,Telmisartan,Drug# treats Disease#,0
+DOID:3393,DB08816,coronary artery disease,Ticagrelor,Drug# treats Disease#,0
+DOID:3393,DB00373,coronary artery disease,Timolol,Drug# treats Disease#,0
+DOID:3393,DB00775,coronary artery disease,Tirofiban,Drug# treats Disease#,0
+DOID:3393,DB00519,coronary artery disease,Trandolapril,Drug# treats Disease#,0
+DOID:3393,DB00177,coronary artery disease,Valsartan,Drug# treats Disease#,0
+DOID:3393,DB00381,coronary artery disease,Amlodipine,Drug# palliates Disease#,1
+DOID:3393,DB00390,coronary artery disease,Digoxin,Drug# palliates Disease#,1
+DOID:3393,DB00343,coronary artery disease,Diltiazem,Drug# palliates Disease#,1
+DOID:3393,DB00975,coronary artery disease,Dipyridamole,Drug# palliates Disease#,1
+DOID:3393,DB00883,coronary artery disease,Isosorbide Dinitrate,Drug# palliates Disease#,1
+DOID:3393,DB01020,coronary artery disease,Isosorbide Mononitrate,Drug# palliates Disease#,1
+DOID:3393,DB00281,coronary artery disease,Lidocaine,Drug# palliates Disease#,1
+DOID:3393,DB00295,coronary artery disease,Morphine,Drug# palliates Disease#,1
+DOID:3393,DB01115,coronary artery disease,Nifedipine,Drug# palliates Disease#,1
+DOID:3393,DB00727,coronary artery disease,Nitroglycerin,Drug# palliates Disease#,1
+DOID:3393,DB01118,coronary artery disease,Amiodarone,Drug# neither treats nor palliates Disease#,2
+DOID:3393,DB00509,coronary artery disease,Dextrothyroxine,Drug# neither treats nor palliates Disease#,2
+DOID:3393,DB00988,coronary artery disease,Dopamine,Drug# neither treats nor palliates Disease#,2
+DOID:3393,DB00783,coronary artery disease,Estradiol,Drug# neither treats nor palliates Disease#,2
+DOID:3393,DB00451,coronary artery disease,Levothyroxine,Drug# neither treats nor palliates Disease#,2
+DOID:3393,DB01583,coronary artery disease,Liotrix,Drug# neither treats nor palliates Disease#,2
+DOID:3393,DB00761,coronary artery disease,Potassium Chloride,Drug# neither treats nor palliates Disease#,2
+DOID:216,DB00907,dental caries,Cocaine,Drug# neither treats nor palliates Disease#,2
+DOID:12930,DB00695,dilated cardiomyopathy,Furosemide,Drug# treats Disease#,0
+DOID:12930,DB00722,dilated cardiomyopathy,Lisinopril,Drug# treats Disease#,0
+DOID:12930,DB00421,dilated cardiomyopathy,Spironolactone,Drug# treats Disease#,0
+DOID:12930,DB01427,dilated cardiomyopathy,Amrinone,Drug# palliates Disease#,1
+DOID:12930,DB00390,dilated cardiomyopathy,Digoxin,Drug# palliates Disease#,1
+DOID:1595,DB00321,endogenous depression,Amitriptyline,Drug# palliates Disease#,1
+DOID:1595,DB01238,endogenous depression,Aripiprazole,Drug# palliates Disease#,1
+DOID:1595,DB00215,endogenous depression,Citalopram,Drug# palliates Disease#,1
+DOID:1595,DB00476,endogenous depression,Duloxetine,Drug# palliates Disease#,1
+DOID:1595,DB01175,endogenous depression,Escitalopram,Drug# palliates Disease#,1
+DOID:1595,DB00176,endogenous depression,Fluvoxamine,Drug# palliates Disease#,1
+DOID:1595,DB00458,endogenous depression,Imipramine,Drug# palliates Disease#,1
+DOID:1595,DB01149,endogenous depression,Nefazodone,Drug# palliates Disease#,1
+DOID:1595,DB00540,endogenous depression,Nortriptyline,Drug# palliates Disease#,1
+DOID:1595,DB00715,endogenous depression,Paroxetine,Drug# palliates Disease#,1
+DOID:1595,DB01037,endogenous depression,Selegiline,Drug# palliates Disease#,1
+DOID:1595,DB01104,endogenous depression,Sertraline,Drug# palliates Disease#,1
+DOID:1595,DB00656,endogenous depression,Trazodone,Drug# palliates Disease#,1
+DOID:1595,DB00313,endogenous depression,Valproic Acid,Drug# palliates Disease#,1
+DOID:1595,DB06684,endogenous depression,Vilazodone,Drug# palliates Disease#,1
+DOID:1826,DB00819,epilepsy syndrome,Acetazolamide,Drug# treats Disease#,0
+DOID:1826,DB01351,epilepsy syndrome,Amobarbital,Drug# treats Disease#,0
+DOID:1826,DB00564,epilepsy syndrome,Carbamazepine,Drug# treats Disease#,0
+DOID:1826,DB00349,epilepsy syndrome,Clobazam,Drug# treats Disease#,0
+DOID:1826,DB01068,epilepsy syndrome,Clonazepam,Drug# treats Disease#,0
+DOID:1826,DB00829,epilepsy syndrome,Diazepam,Drug# treats Disease#,0
+DOID:1826,DB00949,epilepsy syndrome,Felbamate,Drug# treats Disease#,0
+DOID:1826,DB01320,epilepsy syndrome,Fosphenytoin,Drug# treats Disease#,0
+DOID:1826,DB00996,epilepsy syndrome,Gabapentin,Drug# treats Disease#,0
+DOID:1826,DB06218,epilepsy syndrome,Lacosamide,Drug# treats Disease#,0
+DOID:1826,DB00555,epilepsy syndrome,Lamotrigine,Drug# treats Disease#,0
+DOID:1826,DB01202,epilepsy syndrome,Levetiracetam,Drug# treats Disease#,0
+DOID:1826,DB00683,epilepsy syndrome,Midazolam,Drug# treats Disease#,0
+DOID:1826,DB00776,epilepsy syndrome,Oxcarbazepine,Drug# treats Disease#,0
+DOID:1826,DB01174,epilepsy syndrome,Phenobarbital,Drug# treats Disease#,0
+DOID:1826,DB00252,epilepsy syndrome,Phenytoin,Drug# treats Disease#,0
+DOID:1826,DB00230,epilepsy syndrome,Pregabalin,Drug# treats Disease#,0
+DOID:1826,DB00794,epilepsy syndrome,Primidone,Drug# treats Disease#,0
+DOID:1826,DB00818,epilepsy syndrome,Propofol,Drug# treats Disease#,0
+DOID:1826,DB06201,epilepsy syndrome,Rufinamide,Drug# treats Disease#,0
+DOID:1826,DB00273,epilepsy syndrome,Topiramate,Drug# treats Disease#,0
+DOID:1826,DB00347,epilepsy syndrome,Trimethadione,Drug# treats Disease#,0
+DOID:1826,DB00313,epilepsy syndrome,Valproic Acid,Drug# treats Disease#,0
+DOID:1826,DB01080,epilepsy syndrome,Vigabatrin,Drug# treats Disease#,0
+DOID:1826,DB00909,epilepsy syndrome,Zonisamide,Drug# treats Disease#,0
+DOID:1826,DB00490,epilepsy syndrome,Buspirone,Drug# neither treats nor palliates Disease#,2
+DOID:1826,DB00292,epilepsy syndrome,Etomidate,Drug# neither treats nor palliates Disease#,2
+DOID:1826,DB01216,epilepsy syndrome,Finasteride,Drug# neither treats nor palliates Disease#,2
+DOID:1826,DB00158,epilepsy syndrome,Folic Acid,Drug# neither treats nor palliates Disease#,2
+DOID:1826,DB00350,epilepsy syndrome,Minoxidil,Drug# neither treats nor palliates Disease#,2
+DOID:1826,DB01346,epilepsy syndrome,Quinidine barbiturate,Drug# neither treats nor palliates Disease#,2
+DOID:1826,DB00421,epilepsy syndrome,Spironolactone,Drug# neither treats nor palliates Disease#,2
+DOID:1826,DB00795,epilepsy syndrome,Sulfasalazine,Drug# neither treats nor palliates Disease#,2
+DOID:1826,DB00906,epilepsy syndrome,Tiagabine,Drug# neither treats nor palliates Disease#,2
+DOID:1826,DB00620,epilepsy syndrome,Triamcinolone,Drug# neither treats nor palliates Disease#,2
+DOID:5041,DB01101,esophageal cancer,Capecitabine,Drug# treats Disease#,0
+DOID:5041,DB00958,esophageal cancer,Carboplatin,Drug# treats Disease#,0
+DOID:5041,DB00515,esophageal cancer,Cisplatin,Drug# treats Disease#,0
+DOID:5041,DB00563,esophageal cancer,Methotrexate,Drug# treats Disease#,0
+DOID:5041,DB00736,esophageal cancer,Esomeprazole,Drug# palliates Disease#,1
+DOID:5041,DB00338,esophageal cancer,Omeprazole,Drug# palliates Disease#,1
+DOID:5041,DB00707,esophageal cancer,Porfimer,Drug# palliates Disease#,1
+DOID:2994,DB00290,germ cell cancer,Bleomycin,Drug# treats Disease#,0
+DOID:2994,DB00515,germ cell cancer,Cisplatin,Drug# treats Disease#,0
+DOID:2994,DB00970,germ cell cancer,Dactinomycin,Drug# treats Disease#,0
+DOID:2994,DB00773,germ cell cancer,Etoposide,Drug# treats Disease#,0
+DOID:2994,DB01181,germ cell cancer,Ifosfamide,Drug# treats Disease#,0
+DOID:2994,DB00563,germ cell cancer,Methotrexate,Drug# treats Disease#,0
+DOID:2994,DB00570,germ cell cancer,Vinblastine,Drug# treats Disease#,0
+DOID:2994,DB00917,germ cell cancer,Dinoprostone,Drug# neither treats nor palliates Disease#,2
+DOID:11714,DB01016,gestational diabetes,Glyburide,Drug# treats Disease#,0
+DOID:1686,DB00819,glaucoma,Acetazolamide,Drug# treats Disease#,0
+DOID:1686,DB00964,glaucoma,Apraclonidine,Drug# treats Disease#,0
+DOID:1686,DB00195,glaucoma,Betaxolol,Drug# treats Disease#,0
+DOID:1686,DB00905,glaucoma,Bimatoprost,Drug# treats Disease#,0
+DOID:1686,DB00484,glaucoma,Brimonidine,Drug# treats Disease#,0
+DOID:1686,DB01194,glaucoma,Brinzolamide,Drug# treats Disease#,0
+DOID:1686,DB00411,glaucoma,Carbachol,Drug# treats Disease#,0
+DOID:1686,DB00521,glaucoma,Carteolol,Drug# treats Disease#,0
+DOID:1686,DB00575,glaucoma,Clonidine,Drug# treats Disease#,0
+DOID:1686,DB01144,glaucoma,Diclofenamide,Drug# treats Disease#,0
+DOID:1686,DB00449,glaucoma,Dipivefrin,Drug# treats Disease#,0
+DOID:1686,DB00869,glaucoma,Dorzolamide,Drug# treats Disease#,0
+DOID:1686,DB01057,glaucoma,Echothiophate,Drug# treats Disease#,0
+DOID:1686,DB00654,glaucoma,Latanoprost,Drug# treats Disease#,0
+DOID:1686,DB01210,glaucoma,Levobunolol,Drug# treats Disease#,0
+DOID:1686,DB00703,glaucoma,Methazolamide,Drug# treats Disease#,0
+DOID:1686,DB01214,glaucoma,Metipranolol,Drug# treats Disease#,0
+DOID:1686,DB00981,glaucoma,Physostigmine,Drug# treats Disease#,0
+DOID:1686,DB01085,glaucoma,Pilocarpine,Drug# treats Disease#,0
+DOID:1686,DB00373,glaucoma,Timolol,Drug# treats Disease#,0
+DOID:1686,DB00287,glaucoma,Travoprost,Drug# treats Disease#,0
+DOID:1686,DB00668,glaucoma,Epinephrine,Drug# palliates Disease#,1
+DOID:1686,DB00742,glaucoma,Mannitol,Drug# palliates Disease#,1
+DOID:1686,DB00305,glaucoma,Mitomycin,Drug# neither treats nor palliates Disease#,2
+DOID:1686,DB00388,glaucoma,Phenylephrine,Drug# neither treats nor palliates Disease#,2
+DOID:13189,DB00437,gout,Allopurinol,Drug# treats Disease#,0
+DOID:13189,DB01394,gout,Colchicine,Drug# treats Disease#,0
+DOID:13189,DB00741,gout,Hydrocortisone,Drug# treats Disease#,0
+DOID:13189,DB00328,gout,Indomethacin,Drug# treats Disease#,0
+DOID:13189,DB00959,gout,Methylprednisolone,Drug# treats Disease#,0
+DOID:13189,DB00788,gout,Naproxen,Drug# treats Disease#,0
+DOID:13189,DB00860,gout,Prednisolone,Drug# treats Disease#,0
+DOID:13189,DB00635,gout,Prednisone,Drug# treats Disease#,0
+DOID:13189,DB01032,gout,Probenecid,Drug# treats Disease#,0
+DOID:13189,DB00945,gout,Acetylsalicylic acid,Drug# palliates Disease#,1
+DOID:11934,DB01248,head and neck cancer,Docetaxel,Drug# treats Disease#,0
+DOID:11934,DB00544,head and neck cancer,Fluorouracil,Drug# treats Disease#,0
+DOID:11934,DB01005,head and neck cancer,Hydroxyurea,Drug# treats Disease#,0
+DOID:11934,DB00570,head and neck cancer,Vinblastine,Drug# treats Disease#,0
+DOID:11934,DB01085,head and neck cancer,Pilocarpine,Drug# palliates Disease#,1
+DOID:2531,DB00523,hematologic cancer,Alitretinoin,Drug# treats Disease#,0
+DOID:2531,DB00261,hematologic cancer,Anagrelide,Drug# treats Disease#,0
+DOID:2531,DB00443,hematologic cancer,Betamethasone,Drug# treats Disease#,0
+DOID:2531,DB00307,hematologic cancer,Bexarotene,Drug# treats Disease#,0
+DOID:2531,DB00290,hematologic cancer,Bleomycin,Drug# treats Disease#,0
+DOID:2531,DB00188,hematologic cancer,Bortezomib,Drug# treats Disease#,0
+DOID:2531,DB01008,hematologic cancer,Busulfan,Drug# treats Disease#,0
+DOID:2531,DB00262,hematologic cancer,Carmustine,Drug# treats Disease#,0
+DOID:2531,DB00291,hematologic cancer,Chlorambucil,Drug# treats Disease#,0
+DOID:2531,DB00515,hematologic cancer,Cisplatin,Drug# treats Disease#,0
+DOID:2531,DB00242,hematologic cancer,Cladribine,Drug# treats Disease#,0
+DOID:2531,DB00631,hematologic cancer,Clofarabine,Drug# treats Disease#,0
+DOID:2531,DB00987,hematologic cancer,Cytarabine,Drug# treats Disease#,0
+DOID:2531,DB00851,hematologic cancer,Dacarbazine,Drug# treats Disease#,0
+DOID:2531,DB01254,hematologic cancer,Dasatinib,Drug# treats Disease#,0
+DOID:2531,DB00694,hematologic cancer,Daunorubicin,Drug# treats Disease#,0
+DOID:2531,DB01234,hematologic cancer,Dexamethasone,Drug# treats Disease#,0
+DOID:2531,DB00997,hematologic cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:2531,DB00445,hematologic cancer,Epirubicin,Drug# treats Disease#,0
+DOID:2531,DB00773,hematologic cancer,Etoposide,Drug# treats Disease#,0
+DOID:2531,DB01073,hematologic cancer,Fludarabine,Drug# treats Disease#,0
+DOID:2531,DB00441,hematologic cancer,Gemcitabine,Drug# treats Disease#,0
+DOID:2531,DB01005,hematologic cancer,Hydroxyurea,Drug# treats Disease#,0
+DOID:2531,DB01177,hematologic cancer,Idarubicin,Drug# treats Disease#,0
+DOID:2531,DB01181,hematologic cancer,Ifosfamide,Drug# treats Disease#,0
+DOID:2531,DB00619,hematologic cancer,Imatinib,Drug# treats Disease#,0
+DOID:2531,DB00762,hematologic cancer,Irinotecan,Drug# treats Disease#,0
+DOID:2531,DB00480,hematologic cancer,Lenalidomide,Drug# treats Disease#,0
+DOID:2531,DB01206,hematologic cancer,Lomustine,Drug# treats Disease#,0
+DOID:2531,DB00888,hematologic cancer,Mechlorethamine,Drug# treats Disease#,0
+DOID:2531,DB01042,hematologic cancer,Melphalan,Drug# treats Disease#,0
+DOID:2531,DB01033,hematologic cancer,Mercaptopurine,Drug# treats Disease#,0
+DOID:2531,DB00563,hematologic cancer,Methotrexate,Drug# treats Disease#,0
+DOID:2531,DB00553,hematologic cancer,Methoxsalen,Drug# treats Disease#,0
+DOID:2531,DB01204,hematologic cancer,Mitoxantrone,Drug# treats Disease#,0
+DOID:2531,DB01280,hematologic cancer,Nelarabine,Drug# treats Disease#,0
+DOID:2531,DB04868,hematologic cancer,Nilotinib,Drug# treats Disease#,0
+DOID:2531,DB00552,hematologic cancer,Pentostatin,Drug# treats Disease#,0
+DOID:2531,DB00860,hematologic cancer,Prednisolone,Drug# treats Disease#,0
+DOID:2531,DB00635,hematologic cancer,Prednisone,Drug# treats Disease#,0
+DOID:2531,DB01168,hematologic cancer,Procarbazine,Drug# treats Disease#,0
+DOID:2531,DB08877,hematologic cancer,Ruxolitinib,Drug# treats Disease#,0
+DOID:2531,DB00444,hematologic cancer,Teniposide,Drug# treats Disease#,0
+DOID:2531,DB01041,hematologic cancer,Thalidomide,Drug# treats Disease#,0
+DOID:2531,DB04572,hematologic cancer,Thiotepa,Drug# treats Disease#,0
+DOID:2531,DB00352,hematologic cancer,Tioguanine,Drug# treats Disease#,0
+DOID:2531,DB00620,hematologic cancer,Triamcinolone,Drug# treats Disease#,0
+DOID:2531,DB00570,hematologic cancer,Vinblastine,Drug# treats Disease#,0
+DOID:2531,DB00541,hematologic cancer,Vincristine,Drug# treats Disease#,0
+DOID:2531,DB00361,hematologic cancer,Vinorelbine,Drug# treats Disease#,0
+DOID:2531,DB02546,hematologic cancer,Vorinostat,Drug# treats Disease#,0
+DOID:2531,DB00482,hematologic cancer,Celecoxib,Drug# palliates Disease#,1
+DOID:2531,DB00959,hematologic cancer,Methylprednisolone,Drug# palliates Disease#,1
+DOID:2531,DB00437,hematologic cancer,Allopurinol,Drug# neither treats nor palliates Disease#,2
+DOID:2531,DB00982,hematologic cancer,Isotretinoin,Drug# neither treats nor palliates Disease#,2
+DOID:2531,DB00282,hematologic cancer,Pamidronate,Drug# neither treats nor palliates Disease#,2
+DOID:2531,DB06809,hematologic cancer,Plerixafor,Drug# neither treats nor palliates Disease#,2
+DOID:2531,DB00428,hematologic cancer,Streptozocin,Drug# neither treats nor palliates Disease#,2
+DOID:2531,DB00755,hematologic cancer,Tretinoin,Drug# neither treats nor palliates Disease#,2
+DOID:2531,DB00399,hematologic cancer,Zoledronate,Drug# neither treats nor palliates Disease#,2
+DOID:2043,DB00718,hepatitis B,Adefovir Dipivoxil,Drug# treats Disease#,0
+DOID:2043,DB00442,hepatitis B,Entecavir,Drug# treats Disease#,0
+DOID:2043,DB00709,hepatitis B,Lamivudine,Drug# treats Disease#,0
+DOID:2043,DB01265,hepatitis B,Telbivudine,Drug# treats Disease#,0
+DOID:10763,DB01193,hypertension,Acebutolol,Drug# treats Disease#,0
+DOID:10763,DB00594,hypertension,Amiloride,Drug# treats Disease#,0
+DOID:10763,DB00381,hypertension,Amlodipine,Drug# treats Disease#,0
+DOID:10763,DB01076,hypertension,Atorvastatin,Drug# treats Disease#,0
+DOID:10763,DB00542,hypertension,Benazepril,Drug# treats Disease#,0
+DOID:10763,DB00436,hypertension,Bendroflumethiazide,Drug# treats Disease#,0
+DOID:10763,DB01244,hypertension,Bepridil,Drug# treats Disease#,0
+DOID:10763,DB00195,hypertension,Betaxolol,Drug# treats Disease#,0
+DOID:10763,DB00887,hypertension,Bumetanide,Drug# treats Disease#,0
+DOID:10763,DB00796,hypertension,Candesartan,Drug# treats Disease#,0
+DOID:10763,DB01197,hypertension,Captopril,Drug# treats Disease#,0
+DOID:10763,DB01136,hypertension,Carvedilol,Drug# treats Disease#,0
+DOID:10763,DB00880,hypertension,Chlorothiazide,Drug# treats Disease#,0
+DOID:10763,DB00310,hypertension,Chlorthalidone,Drug# treats Disease#,0
+DOID:10763,DB00575,hypertension,Clonidine,Drug# treats Disease#,0
+DOID:10763,DB00343,hypertension,Diltiazem,Drug# treats Disease#,0
+DOID:10763,DB00590,hypertension,Doxazosin,Drug# treats Disease#,0
+DOID:10763,DB00584,hypertension,Enalapril,Drug# treats Disease#,0
+DOID:10763,DB00700,hypertension,Eplerenone,Drug# treats Disease#,0
+DOID:10763,DB00876,hypertension,Eprosartan,Drug# treats Disease#,0
+DOID:10763,DB00187,hypertension,Esmolol,Drug# treats Disease#,0
+DOID:10763,DB00903,hypertension,Ethacrynic acid,Drug# treats Disease#,0
+DOID:10763,DB01023,hypertension,Felodipine,Drug# treats Disease#,0
+DOID:10763,DB00800,hypertension,Fenoldopam,Drug# treats Disease#,0
+DOID:10763,DB00492,hypertension,Fosinopril,Drug# treats Disease#,0
+DOID:10763,DB00695,hypertension,Furosemide,Drug# treats Disease#,0
+DOID:10763,DB00629,hypertension,Guanabenz,Drug# treats Disease#,0
+DOID:10763,DB00226,hypertension,Guanadrel,Drug# treats Disease#,0
+DOID:10763,DB01170,hypertension,Guanethidine,Drug# treats Disease#,0
+DOID:10763,DB01018,hypertension,Guanfacine,Drug# treats Disease#,0
+DOID:10763,DB01275,hypertension,Hydralazine,Drug# treats Disease#,0
+DOID:10763,DB00999,hypertension,Hydrochlorothiazide,Drug# treats Disease#,0
+DOID:10763,DB00774,hypertension,Hydroflumethiazide,Drug# treats Disease#,0
+DOID:10763,DB00808,hypertension,Indapamide,Drug# treats Disease#,0
+DOID:10763,DB01029,hypertension,Irbesartan,Drug# treats Disease#,0
+DOID:10763,DB00270,hypertension,Isradipine,Drug# treats Disease#,0
+DOID:10763,DB00598,hypertension,Labetalol,Drug# treats Disease#,0
+DOID:10763,DB00722,hypertension,Lisinopril,Drug# treats Disease#,0
+DOID:10763,DB00678,hypertension,Losartan,Drug# treats Disease#,0
+DOID:10763,DB00657,hypertension,Mecamylamine,Drug# treats Disease#,0
+DOID:10763,DB00968,hypertension,Methyldopa,Drug# treats Disease#,0
+DOID:10763,DB00524,hypertension,Metolazone,Drug# treats Disease#,0
+DOID:10763,DB00264,hypertension,Metoprolol,Drug# treats Disease#,0
+DOID:10763,DB00350,hypertension,Minoxidil,Drug# treats Disease#,0
+DOID:10763,DB00691,hypertension,Moexipril,Drug# treats Disease#,0
+DOID:10763,DB01203,hypertension,Nadolol,Drug# treats Disease#,0
+DOID:10763,DB04861,hypertension,Nebivolol,Drug# treats Disease#,0
+DOID:10763,DB00622,hypertension,Nicardipine,Drug# treats Disease#,0
+DOID:10763,DB01115,hypertension,Nifedipine,Drug# treats Disease#,0
+DOID:10763,DB00401,hypertension,Nisoldipine,Drug# treats Disease#,0
+DOID:10763,DB00275,hypertension,Olmesartan,Drug# treats Disease#,0
+DOID:10763,DB01359,hypertension,Penbutolol,Drug# treats Disease#,0
+DOID:10763,DB00790,hypertension,Perindopril,Drug# treats Disease#,0
+DOID:10763,DB00960,hypertension,Pindolol,Drug# treats Disease#,0
+DOID:10763,DB00457,hypertension,Prazosin,Drug# treats Disease#,0
+DOID:10763,DB00571,hypertension,Propranolol,Drug# treats Disease#,0
+DOID:10763,DB00881,hypertension,Quinapril,Drug# treats Disease#,0
+DOID:10763,DB00178,hypertension,Ramipril,Drug# treats Disease#,0
+DOID:10763,DB00206,hypertension,Reserpine,Drug# treats Disease#,0
+DOID:10763,DB00421,hypertension,Spironolactone,Drug# treats Disease#,0
+DOID:10763,DB00966,hypertension,Telmisartan,Drug# treats Disease#,0
+DOID:10763,DB01162,hypertension,Terazosin,Drug# treats Disease#,0
+DOID:10763,DB00373,hypertension,Timolol,Drug# treats Disease#,0
+DOID:10763,DB00214,hypertension,Torasemide,Drug# treats Disease#,0
+DOID:10763,DB00519,hypertension,Trandolapril,Drug# treats Disease#,0
+DOID:10763,DB00384,hypertension,Triamterene,Drug# treats Disease#,0
+DOID:10763,DB00177,hypertension,Valsartan,Drug# treats Disease#,0
+DOID:10763,DB00661,hypertension,Verapamil,Drug# treats Disease#,0
+DOID:10763,DB01119,hypertension,Diazoxide,Drug# palliates Disease#,1
+DOID:10763,DB00692,hypertension,Phentolamine,Drug# palliates Disease#,1
+DOID:10763,DB00945,hypertension,Acetylsalicylic acid,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00770,hypertension,Alprostadil,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01118,hypertension,Amiodarone,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00443,hypertension,Betamethasone,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00905,hypertension,Bimatoprost,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00559,hypertension,Bosentan,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00484,hypertension,Brimonidine,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01194,hypertension,Brinzolamide,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00521,hypertension,Carteolol,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00758,hypertension,Clopidogrel,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01189,hypertension,Desflurane,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01234,hypertension,Dexamethasone,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00449,hypertension,Dipivefrin,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00988,hypertension,Dopamine,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00869,hypertension,Dorzolamide,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01240,hypertension,Epoprostenol,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01088,hypertension,Iloprost,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00883,hypertension,Isosorbide Dinitrate,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00654,hypertension,Latanoprost,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01210,hypertension,Levobunolol,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00227,hypertension,Lovastatin,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00653,hypertension,Magnesium Sulfate,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00765,hypertension,Metyrosine,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00218,hypertension,Moxifloxacin,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00435,hypertension,Nitric Oxide,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00727,hypertension,Nitroglycerin,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00325,hypertension,Nitroprusside,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01083,hypertension,Orlistat,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01174,hypertension,Phenobarbital,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01085,hypertension,Pilocarpine,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00761,hypertension,Potassium Chloride,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01346,hypertension,Quinidine barbiturate,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB01001,hypertension,Salbutamol,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00203,hypertension,Sildenafil,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00641,hypertension,Simvastatin,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00364,hypertension,Sucralfate,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00820,hypertension,Tadalafil,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00797,hypertension,Tolazoline,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00287,hypertension,Travoprost,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB00374,hypertension,Treprostinil,Drug# neither treats nor palliates Disease#,2
+DOID:10763,DB05389,hypertension,WF10,Drug# neither treats nor palliates Disease#,2
+DOID:1459,DB00509,hypothyroidism,Dextrothyroxine,Drug# treats Disease#,0
+DOID:1459,DB00451,hypothyroidism,Levothyroxine,Drug# treats Disease#,0
+DOID:1459,DB00279,hypothyroidism,Liothyronine,Drug# treats Disease#,0
+DOID:1459,DB01583,hypothyroidism,Liotrix,Drug# treats Disease#,0
+DOID:0050156,DB00860,idiopathic pulmonary fibrosis,Prednisolone,Drug# palliates Disease#,1
+DOID:263,DB01101,kidney cancer,Capecitabine,Drug# treats Disease#,0
+DOID:263,DB00970,kidney cancer,Dactinomycin,Drug# treats Disease#,0
+DOID:263,DB00997,kidney cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:263,DB00530,kidney cancer,Erlotinib,Drug# treats Disease#,0
+DOID:263,DB01590,kidney cancer,Everolimus,Drug# treats Disease#,0
+DOID:263,DB00441,kidney cancer,Gemcitabine,Drug# treats Disease#,0
+DOID:263,DB01229,kidney cancer,Paclitaxel,Drug# treats Disease#,0
+DOID:263,DB06589,kidney cancer,Pazopanib,Drug# treats Disease#,0
+DOID:263,DB00398,kidney cancer,Sorafenib,Drug# treats Disease#,0
+DOID:263,DB01268,kidney cancer,Sunitinib,Drug# treats Disease#,0
+DOID:263,DB06287,kidney cancer,Temsirolimus,Drug# treats Disease#,0
+DOID:263,DB00570,kidney cancer,Vinblastine,Drug# treats Disease#,0
+DOID:263,DB00541,kidney cancer,Vincristine,Drug# treats Disease#,0
+DOID:263,DB00443,kidney cancer,Betamethasone,Drug# palliates Disease#,1
+DOID:263,DB00482,kidney cancer,Celecoxib,Drug# palliates Disease#,1
+DOID:263,DB01234,kidney cancer,Dexamethasone,Drug# palliates Disease#,1
+DOID:263,DB00736,kidney cancer,Esomeprazole,Drug# palliates Disease#,1
+DOID:263,DB00741,kidney cancer,Hydrocortisone,Drug# palliates Disease#,1
+DOID:263,DB00338,kidney cancer,Omeprazole,Drug# palliates Disease#,1
+DOID:263,DB00758,kidney cancer,Clopidogrel,Drug# neither treats nor palliates Disease#,2
+DOID:263,DB00996,kidney cancer,Gabapentin,Drug# neither treats nor palliates Disease#,2
+DOID:263,DB01005,kidney cancer,Hydroxyurea,Drug# neither treats nor palliates Disease#,2
+DOID:263,DB00722,kidney cancer,Lisinopril,Drug# neither treats nor palliates Disease#,2
+DOID:263,DB01206,kidney cancer,Lomustine,Drug# neither treats nor palliates Disease#,2
+DOID:263,DB00603,kidney cancer,Medroxyprogesterone Acetate,Drug# neither treats nor palliates Disease#,2
+DOID:263,DB01065,kidney cancer,Melatonin,Drug# neither treats nor palliates Disease#,2
+DOID:263,DB00331,kidney cancer,Metformin,Drug# neither treats nor palliates Disease#,2
+DOID:263,DB00399,kidney cancer,Zoledronate,Drug# neither treats nor palliates Disease#,2
+DOID:1024,DB00250,leprosy,Dapsone,Drug# treats Disease#,0
+DOID:1024,DB01045,leprosy,Rifampicin,Drug# treats Disease#,0
+DOID:1024,DB01041,leprosy,Thalidomide,Drug# treats Disease#,0
+DOID:3571,DB00997,liver cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:3571,DB00445,liver cancer,Epirubicin,Drug# treats Disease#,0
+DOID:3571,DB00398,liver cancer,Sorafenib,Drug# treats Disease#,0
+DOID:3571,DB00331,liver cancer,Metformin,Drug# neither treats nor palliates Disease#,2
+DOID:1324,DB00515,lung cancer,Cisplatin,Drug# treats Disease#,0
+DOID:1324,DB08865,lung cancer,Crizotinib,Drug# treats Disease#,0
+DOID:1324,DB01248,lung cancer,Docetaxel,Drug# treats Disease#,0
+DOID:1324,DB00997,lung cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:1324,DB00530,lung cancer,Erlotinib,Drug# treats Disease#,0
+DOID:1324,DB00773,lung cancer,Etoposide,Drug# treats Disease#,0
+DOID:1324,DB00317,lung cancer,Gefitinib,Drug# treats Disease#,0
+DOID:1324,DB00441,lung cancer,Gemcitabine,Drug# treats Disease#,0
+DOID:1324,DB00762,lung cancer,Irinotecan,Drug# treats Disease#,0
+DOID:1324,DB00563,lung cancer,Methotrexate,Drug# treats Disease#,0
+DOID:1324,DB01229,lung cancer,Paclitaxel,Drug# treats Disease#,0
+DOID:1324,DB00642,lung cancer,Pemetrexed,Drug# treats Disease#,0
+DOID:1324,DB00444,lung cancer,Teniposide,Drug# treats Disease#,0
+DOID:1324,DB01030,lung cancer,Topotecan,Drug# treats Disease#,0
+DOID:1324,DB00570,lung cancer,Vinblastine,Drug# treats Disease#,0
+DOID:1324,DB00361,lung cancer,Vinorelbine,Drug# treats Disease#,0
+DOID:1324,DB00813,lung cancer,Fentanyl,Drug# palliates Disease#,1
+DOID:1324,DB00158,lung cancer,Folic Acid,Drug# neither treats nor palliates Disease#,2
+DOID:1324,DB01005,lung cancer,Hydroxyurea,Drug# neither treats nor palliates Disease#,2
+DOID:1324,DB01168,lung cancer,Procarbazine,Drug# neither treats nor palliates Disease#,2
+DOID:0060073,DB00290,lymphatic system cancer,Bleomycin,Drug# treats Disease#,0
+DOID:0060073,DB00262,lymphatic system cancer,Carmustine,Drug# treats Disease#,0
+DOID:0060073,DB00987,lymphatic system cancer,Cytarabine,Drug# treats Disease#,0
+DOID:0060073,DB01073,lymphatic system cancer,Fludarabine,Drug# treats Disease#,0
+DOID:0060073,DB00888,lymphatic system cancer,Mechlorethamine,Drug# treats Disease#,0
+DOID:0060073,DB00563,lymphatic system cancer,Methotrexate,Drug# treats Disease#,0
+DOID:0060073,DB01204,lymphatic system cancer,Mitoxantrone,Drug# treats Disease#,0
+DOID:0060073,DB00444,lymphatic system cancer,Teniposide,Drug# treats Disease#,0
+DOID:0060073,DB00541,lymphatic system cancer,Vincristine,Drug# treats Disease#,0
+DOID:12365,DB06697,malaria,Artemether,Drug# treats Disease#,0
+DOID:12365,DB01190,malaria,Clindamycin,Drug# treats Disease#,0
+DOID:12365,DB00250,malaria,Dapsone,Drug# treats Disease#,0
+DOID:12365,DB00254,malaria,Doxycycline,Drug# treats Disease#,0
+DOID:12365,DB00806,malaria,Pentoxifylline,Drug# treats Disease#,0
+DOID:12365,DB01131,malaria,Proguanil,Drug# treats Disease#,0
+DOID:12365,DB00205,malaria,Pyrimethamine,Drug# treats Disease#,0
+DOID:12365,DB00908,malaria,Quinidine,Drug# treats Disease#,0
+DOID:12365,DB01346,malaria,Quinidine barbiturate,Drug# treats Disease#,0
+DOID:12365,DB00468,malaria,Quinine,Drug# treats Disease#,0
+DOID:12365,DB00359,malaria,Sulfadiazine,Drug# treats Disease#,0
+DOID:3070,DB00262,malignant glioma,Carmustine,Drug# treats Disease#,0
+DOID:3070,DB00853,malignant glioma,Temozolomide,Drug# treats Disease#,0
+DOID:3565,DB00987,meningioma,Cytarabine,Drug# neither treats nor palliates Disease#,2
+DOID:3565,DB00834,meningioma,Mifepristone,Drug# neither treats nor palliates Disease#,2
+DOID:14221,DB00331,metabolic syndrome X,Metformin,Drug# treats Disease#,0
+DOID:14221,DB00153,metabolic syndrome X,Ergocalciferol,Drug# neither treats nor palliates Disease#,2
+DOID:6364,DB00321,migraine,Amitriptyline,Drug# treats Disease#,0
+DOID:6364,DB00996,migraine,Gabapentin,Drug# treats Disease#,0
+DOID:6364,DB00571,migraine,Propranolol,Drug# treats Disease#,0
+DOID:6364,DB00373,migraine,Timolol,Drug# treats Disease#,0
+DOID:6364,DB00273,migraine,Topiramate,Drug# treats Disease#,0
+DOID:6364,DB00313,migraine,Valproic Acid,Drug# treats Disease#,0
+DOID:6364,DB00661,migraine,Verapamil,Drug# treats Disease#,0
+DOID:6364,DB00316,migraine,Acetaminophen,Drug# palliates Disease#,1
+DOID:6364,DB00945,migraine,Acetylsalicylic acid,Drug# palliates Disease#,1
+DOID:6364,DB00918,migraine,Almotriptan,Drug# palliates Disease#,1
+DOID:6364,DB01435,migraine,Antipyrine,Drug# palliates Disease#,1
+DOID:6364,DB00241,migraine,Butalbital,Drug# palliates Disease#,1
+DOID:6364,DB00201,migraine,Caffeine,Drug# palliates Disease#,1
+DOID:6364,DB00924,migraine,Cyclobenzaprine,Drug# palliates Disease#,1
+DOID:6364,DB00434,migraine,Cyproheptadine,Drug# palliates Disease#,1
+DOID:6364,DB00586,migraine,Diclofenac,Drug# palliates Disease#,1
+DOID:6364,DB00320,migraine,Dihydroergotamine,Drug# palliates Disease#,1
+DOID:6364,DB00216,migraine,Eletriptan,Drug# palliates Disease#,1
+DOID:6364,DB00696,migraine,Ergotamine,Drug# palliates Disease#,1
+DOID:6364,DB00998,migraine,Frovatriptan,Drug# palliates Disease#,1
+DOID:6364,DB00328,migraine,Indomethacin,Drug# palliates Disease#,1
+DOID:6364,DB00353,migraine,Methylergometrine,Drug# palliates Disease#,1
+DOID:6364,DB01233,migraine,Metoclopramide,Drug# palliates Disease#,1
+DOID:6364,DB00788,migraine,Naproxen,Drug# palliates Disease#,1
+DOID:6364,DB00952,migraine,Naratriptan,Drug# palliates Disease#,1
+DOID:6364,DB01173,migraine,Orphenadrine,Drug# palliates Disease#,1
+DOID:6364,DB00635,migraine,Prednisone,Drug# palliates Disease#,1
+DOID:6364,DB00953,migraine,Rizatriptan,Drug# palliates Disease#,1
+DOID:6364,DB00669,migraine,Sumatriptan,Drug# palliates Disease#,1
+DOID:6364,DB00697,migraine,Tizanidine,Drug# palliates Disease#,1
+DOID:6364,DB00315,migraine,Zolmitriptan,Drug# palliates Disease#,1
+DOID:2377,DB00993,multiple sclerosis,Azathioprine,Drug# treats Disease#,0
+DOID:2377,DB00443,multiple sclerosis,Betamethasone,Drug# treats Disease#,0
+DOID:2377,DB00242,multiple sclerosis,Cladribine,Drug# treats Disease#,0
+DOID:2377,DB01234,multiple sclerosis,Dexamethasone,Drug# treats Disease#,0
+DOID:2377,DB08868,multiple sclerosis,Fingolimod,Drug# treats Disease#,0
+DOID:2377,DB00563,multiple sclerosis,Methotrexate,Drug# treats Disease#,0
+DOID:2377,DB00959,multiple sclerosis,Methylprednisolone,Drug# treats Disease#,0
+DOID:2377,DB01204,multiple sclerosis,Mitoxantrone,Drug# treats Disease#,0
+DOID:2377,DB00860,multiple sclerosis,Prednisolone,Drug# treats Disease#,0
+DOID:2377,DB00635,multiple sclerosis,Prednisone,Drug# treats Disease#,0
+DOID:2377,DB00620,multiple sclerosis,Triamcinolone,Drug# treats Disease#,0
+DOID:2377,DB00915,multiple sclerosis,Amantadine,Drug# palliates Disease#,1
+DOID:2377,DB00321,multiple sclerosis,Amitriptyline,Drug# palliates Disease#,1
+DOID:2377,DB00181,multiple sclerosis,Baclofen,Drug# palliates Disease#,1
+DOID:2377,DB00564,multiple sclerosis,Carbamazepine,Drug# palliates Disease#,1
+DOID:2377,DB01068,multiple sclerosis,Clonazepam,Drug# palliates Disease#,1
+DOID:2377,DB06637,multiple sclerosis,Dalfampridine,Drug# palliates Disease#,1
+DOID:2377,DB01219,multiple sclerosis,Dantrolene,Drug# palliates Disease#,1
+DOID:2377,DB00514,multiple sclerosis,Dextromethorphan,Drug# palliates Disease#,1
+DOID:2377,DB00829,multiple sclerosis,Diazepam,Drug# palliates Disease#,1
+DOID:2377,DB00402,multiple sclerosis,Eszopiclone,Drug# palliates Disease#,1
+DOID:2377,DB00996,multiple sclerosis,Gabapentin,Drug# palliates Disease#,1
+DOID:2377,DB00745,multiple sclerosis,Modafinil,Drug# palliates Disease#,1
+DOID:2377,DB00540,multiple sclerosis,Nortriptyline,Drug# palliates Disease#,1
+DOID:2377,DB00776,multiple sclerosis,Oxcarbazepine,Drug# palliates Disease#,1
+DOID:2377,DB00230,multiple sclerosis,Pregabalin,Drug# palliates Disease#,1
+DOID:2377,DB01589,multiple sclerosis,Quazepam,Drug# palliates Disease#,1
+DOID:2377,DB00203,multiple sclerosis,Sildenafil,Drug# palliates Disease#,1
+DOID:2377,DB01591,multiple sclerosis,Solifenacin,Drug# palliates Disease#,1
+DOID:2377,DB00697,multiple sclerosis,Tizanidine,Drug# palliates Disease#,1
+DOID:2377,DB01036,multiple sclerosis,Tolterodine,Drug# palliates Disease#,1
+DOID:2377,DB00425,multiple sclerosis,Zolpidem,Drug# palliates Disease#,1
+DOID:2377,DB01198,multiple sclerosis,Zopiclone,Drug# palliates Disease#,1
+DOID:2377,DB00252,multiple sclerosis,Phenytoin,Drug# neither treats nor palliates Disease#,2
+DOID:2377,DB00953,multiple sclerosis,Rizatriptan,Drug# neither treats nor palliates Disease#,2
+DOID:2377,DB00268,multiple sclerosis,Ropinirole,Drug# neither treats nor palliates Disease#,2
+DOID:8986,DB00182,narcolepsy,Amphetamine,Drug# palliates Disease#,1
+DOID:8986,DB01576,narcolepsy,Dextroamphetamine,Drug# palliates Disease#,1
+DOID:8986,DB01440,narcolepsy,Gamma Hydroxybutyric Acid,Drug# palliates Disease#,1
+DOID:8986,DB01577,narcolepsy,Methamphetamine,Drug# palliates Disease#,1
+DOID:8986,DB00745,narcolepsy,Modafinil,Drug# palliates Disease#,1
+DOID:585,DB00999,nephrolithiasis,Hydrochlorothiazide,Drug# treats Disease#,0
+DOID:0050742,DB01273,nicotine dependence,Varenicline,Drug# treats Disease#,0
+DOID:0050742,DB00184,nicotine dependence,Nicotine,Drug# palliates Disease#,1
+DOID:9970,DB00865,obesity,Benzphetamine,Drug# treats Disease#,0
+DOID:9970,DB01156,obesity,Bupropion,Drug# treats Disease#,0
+DOID:9970,DB00501,obesity,Cimetidine,Drug# treats Disease#,0
+DOID:9970,DB00937,obesity,Diethylpropion,Drug# treats Disease#,0
+DOID:9970,DB01577,obesity,Methamphetamine,Drug# treats Disease#,0
+DOID:9970,DB01083,obesity,Orlistat,Drug# treats Disease#,0
+DOID:9970,DB01579,obesity,Phendimetrazine,Drug# treats Disease#,0
+DOID:9970,DB00191,obesity,Phentermine,Drug# treats Disease#,0
+DOID:9970,DB00397,obesity,Phenylpropanolamine,Drug# treats Disease#,0
+DOID:9970,DB01105,obesity,Sibutramine,Drug# treats Disease#,0
+DOID:9970,DB00273,obesity,Topiramate,Drug# treats Disease#,0
+DOID:2174,DB00958,ocular cancer,Carboplatin,Drug# treats Disease#,0
+DOID:2174,DB00970,ocular cancer,Dactinomycin,Drug# treats Disease#,0
+DOID:8398,DB00316,osteoarthritis,Acetaminophen,Drug# palliates Disease#,1
+DOID:8398,DB00945,osteoarthritis,Acetylsalicylic acid,Drug# palliates Disease#,1
+DOID:8398,DB00482,osteoarthritis,Celecoxib,Drug# palliates Disease#,1
+DOID:8398,DB00122,osteoarthritis,Choline,Drug# palliates Disease#,1
+DOID:8398,DB00318,osteoarthritis,Codeine,Drug# palliates Disease#,1
+DOID:8398,DB00924,osteoarthritis,Cyclobenzaprine,Drug# palliates Disease#,1
+DOID:8398,DB00586,osteoarthritis,Diclofenac,Drug# palliates Disease#,1
+DOID:8398,DB00861,osteoarthritis,Diflunisal,Drug# palliates Disease#,1
+DOID:8398,DB00749,osteoarthritis,Etodolac,Drug# palliates Disease#,1
+DOID:8398,DB00573,osteoarthritis,Fenoprofen,Drug# palliates Disease#,1
+DOID:8398,DB00712,osteoarthritis,Flurbiprofen,Drug# palliates Disease#,1
+DOID:8398,DB01296,osteoarthritis,Glucosamine,Drug# palliates Disease#,1
+DOID:8398,DB01050,osteoarthritis,Ibuprofen,Drug# palliates Disease#,1
+DOID:8398,DB00328,osteoarthritis,Indomethacin,Drug# palliates Disease#,1
+DOID:8398,DB01009,osteoarthritis,Ketoprofen,Drug# palliates Disease#,1
+DOID:8398,DB00281,osteoarthritis,Lidocaine,Drug# palliates Disease#,1
+DOID:8398,DB00814,osteoarthritis,Meloxicam,Drug# palliates Disease#,1
+DOID:8398,DB00959,osteoarthritis,Methylprednisolone,Drug# palliates Disease#,1
+DOID:8398,DB00461,osteoarthritis,Nabumetone,Drug# palliates Disease#,1
+DOID:8398,DB00788,osteoarthritis,Naproxen,Drug# palliates Disease#,1
+DOID:8398,DB00991,osteoarthritis,Oxaprozin,Drug# palliates Disease#,1
+DOID:8398,DB00554,osteoarthritis,Piroxicam,Drug# palliates Disease#,1
+DOID:8398,DB00635,osteoarthritis,Prednisone,Drug# palliates Disease#,1
+DOID:8398,DB00605,osteoarthritis,Sulindac,Drug# palliates Disease#,1
+DOID:8398,DB00500,osteoarthritis,Tolmetin,Drug# palliates Disease#,1
+DOID:8398,DB00201,osteoarthritis,Caffeine,Drug# neither treats nor palliates Disease#,2
+DOID:8398,DB01068,osteoarthritis,Clonazepam,Drug# neither treats nor palliates Disease#,2
+DOID:8398,DB00929,osteoarthritis,Misoprostol,Drug# neither treats nor palliates Disease#,2
+DOID:11476,DB00630,osteoporosis,Alendronate,Drug# treats Disease#,0
+DOID:11476,DB00136,osteoporosis,Calcitriol,Drug# treats Disease#,0
+DOID:11476,DB00258,osteoporosis,Calcium Acetate,Drug# treats Disease#,0
+DOID:11476,DB00169,osteoporosis,Cholecalciferol,Drug# treats Disease#,0
+DOID:11476,DB00286,osteoporosis,Conjugated Estrogens,Drug# treats Disease#,0
+DOID:11476,DB00153,osteoporosis,Ergocalciferol,Drug# treats Disease#,0
+DOID:11476,DB00783,osteoporosis,Estradiol,Drug# treats Disease#,0
+DOID:11476,DB04574,osteoporosis,Estropipate,Drug# treats Disease#,0
+DOID:11476,DB00977,osteoporosis,Ethinyl Estradiol,Drug# treats Disease#,0
+DOID:11476,DB01077,osteoporosis,Etidronic acid,Drug# treats Disease#,0
+DOID:11476,DB00710,osteoporosis,Ibandronate,Drug# treats Disease#,0
+DOID:11476,DB00282,osteoporosis,Pamidronate,Drug# treats Disease#,0
+DOID:11476,DB00481,osteoporosis,Raloxifene,Drug# treats Disease#,0
+DOID:11476,DB00884,osteoporosis,Risedronate,Drug# treats Disease#,0
+DOID:11476,DB00399,osteoporosis,Zoledronate,Drug# treats Disease#,0
+DOID:11476,DB00621,osteoporosis,Oxandrolone,Drug# palliates Disease#,1
+DOID:11476,DB00999,osteoporosis,Hydrochlorothiazide,Drug# neither treats nor palliates Disease#,2
+DOID:11476,DB00603,osteoporosis,Medroxyprogesterone Acetate,Drug# neither treats nor palliates Disease#,2
+DOID:11476,DB06710,osteoporosis,Methyltestosterone,Drug# neither treats nor palliates Disease#,2
+DOID:11476,DB00717,osteoporosis,Norethindrone,Drug# neither treats nor palliates Disease#,2
+DOID:2394,DB00488,ovarian cancer,Altretamine,Drug# treats Disease#,0
+DOID:2394,DB00958,ovarian cancer,Carboplatin,Drug# treats Disease#,0
+DOID:2394,DB00291,ovarian cancer,Chlorambucil,Drug# treats Disease#,0
+DOID:2394,DB01248,ovarian cancer,Docetaxel,Drug# treats Disease#,0
+DOID:2394,DB00997,ovarian cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:2394,DB00445,ovarian cancer,Epirubicin,Drug# treats Disease#,0
+DOID:2394,DB01042,ovarian cancer,Melphalan,Drug# treats Disease#,0
+DOID:2394,DB01229,ovarian cancer,Paclitaxel,Drug# treats Disease#,0
+DOID:2394,DB01030,ovarian cancer,Topotecan,Drug# treats Disease#,0
+DOID:2394,DB00361,ovarian cancer,Vinorelbine,Drug# treats Disease#,0
+DOID:2394,DB01005,ovarian cancer,Hydroxyurea,Drug# neither treats nor palliates Disease#,2
+DOID:2394,DB01357,ovarian cancer,Mestranol,Drug# neither treats nor palliates Disease#,2
+DOID:1793,DB00851,pancreatic cancer,Dacarbazine,Drug# treats Disease#,0
+DOID:1793,DB01248,pancreatic cancer,Docetaxel,Drug# treats Disease#,0
+DOID:1793,DB00997,pancreatic cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:1793,DB00445,pancreatic cancer,Epirubicin,Drug# treats Disease#,0
+DOID:1793,DB00530,pancreatic cancer,Erlotinib,Drug# treats Disease#,0
+DOID:1793,DB00544,pancreatic cancer,Fluorouracil,Drug# treats Disease#,0
+DOID:1793,DB00441,pancreatic cancer,Gemcitabine,Drug# treats Disease#,0
+DOID:1793,DB00762,pancreatic cancer,Irinotecan,Drug# treats Disease#,0
+DOID:1793,DB01268,pancreatic cancer,Sunitinib,Drug# treats Disease#,0
+DOID:1793,DB00675,pancreatic cancer,Tamoxifen,Drug# treats Disease#,0
+DOID:1793,DB00104,pancreatic cancer,Octreotide,Drug# palliates Disease#,1
+DOID:4989,DB00424,pancreatitis,Hyoscyamine,Drug# treats Disease#,0
+DOID:4989,DB00782,pancreatitis,Propantheline,Drug# treats Disease#,0
+DOID:4989,DB00104,pancreatitis,Octreotide,Drug# palliates Disease#,1
+DOID:4989,DB00572,pancreatitis,Atropine,Drug# neither treats nor palliates Disease#,2
+DOID:4989,DB01241,pancreatitis,Gemfibrozil,Drug# neither treats nor palliates Disease#,2
+DOID:4989,DB00627,pancreatitis,Niacin,Drug# neither treats nor palliates Disease#,2
+DOID:594,DB00404,panic disorder,Alprazolam,Drug# palliates Disease#,1
+DOID:594,DB01156,panic disorder,Bupropion,Drug# palliates Disease#,1
+DOID:594,DB00490,panic disorder,Buspirone,Drug# palliates Disease#,1
+DOID:594,DB00215,panic disorder,Citalopram,Drug# palliates Disease#,1
+DOID:594,DB01242,panic disorder,Clomipramine,Drug# palliates Disease#,1
+DOID:594,DB01068,panic disorder,Clonazepam,Drug# palliates Disease#,1
+DOID:594,DB00829,panic disorder,Diazepam,Drug# palliates Disease#,1
+DOID:594,DB00472,panic disorder,Fluoxetine,Drug# palliates Disease#,1
+DOID:594,DB00176,panic disorder,Fluvoxamine,Drug# palliates Disease#,1
+DOID:594,DB00458,panic disorder,Imipramine,Drug# palliates Disease#,1
+DOID:594,DB01247,panic disorder,Isocarboxazid,Drug# palliates Disease#,1
+DOID:594,DB00186,panic disorder,Lorazepam,Drug# palliates Disease#,1
+DOID:594,DB00934,panic disorder,Maprotiline,Drug# palliates Disease#,1
+DOID:594,DB00540,panic disorder,Nortriptyline,Drug# palliates Disease#,1
+DOID:594,DB00334,panic disorder,Olanzapine,Drug# palliates Disease#,1
+DOID:594,DB00715,panic disorder,Paroxetine,Drug# palliates Disease#,1
+DOID:594,DB01104,panic disorder,Sertraline,Drug# palliates Disease#,1
+DOID:594,DB00285,panic disorder,Venlafaxine,Drug# palliates Disease#,1
+DOID:1192,DB00523,peripheral nervous system neoplasm,Alitretinoin,Drug# treats Disease#,0
+DOID:1192,DB00515,peripheral nervous system neoplasm,Cisplatin,Drug# treats Disease#,0
+DOID:1192,DB00851,peripheral nervous system neoplasm,Dacarbazine,Drug# treats Disease#,0
+DOID:1192,DB00970,peripheral nervous system neoplasm,Dactinomycin,Drug# treats Disease#,0
+DOID:1192,DB00997,peripheral nervous system neoplasm,Doxorubicin,Drug# treats Disease#,0
+DOID:1192,DB00445,peripheral nervous system neoplasm,Epirubicin,Drug# treats Disease#,0
+DOID:1192,DB00773,peripheral nervous system neoplasm,Etoposide,Drug# treats Disease#,0
+DOID:1192,DB00982,peripheral nervous system neoplasm,Isotretinoin,Drug# treats Disease#,0
+DOID:1192,DB01042,peripheral nervous system neoplasm,Melphalan,Drug# treats Disease#,0
+DOID:1192,DB01030,peripheral nervous system neoplasm,Topotecan,Drug# treats Disease#,0
+DOID:1192,DB00755,peripheral nervous system neoplasm,Tretinoin,Drug# treats Disease#,0
+DOID:1192,DB00541,peripheral nervous system neoplasm,Vincristine,Drug# treats Disease#,0
+DOID:11612,DB00331,polycystic ovary syndrome,Metformin,Drug# treats Disease#,0
+DOID:11612,DB00304,polycystic ovary syndrome,Desogestrel,Drug# palliates Disease#,1
+DOID:11612,DB01395,polycystic ovary syndrome,Drospirenone,Drug# palliates Disease#,1
+DOID:11612,DB00977,polycystic ovary syndrome,Ethinyl Estradiol,Drug# palliates Disease#,1
+DOID:11612,DB00367,polycystic ovary syndrome,Levonorgestrel,Drug# palliates Disease#,1
+DOID:11612,DB00717,polycystic ovary syndrome,Norethindrone,Drug# palliates Disease#,1
+DOID:10283,DB05812,prostate cancer,Abiraterone,Drug# treats Disease#,0
+DOID:10283,DB01128,prostate cancer,Bicalutamide,Drug# treats Disease#,0
+DOID:10283,DB06772,prostate cancer,Cabazitaxel,Drug# treats Disease#,0
+DOID:10283,DB01101,prostate cancer,Capecitabine,Drug# treats Disease#,0
+DOID:10283,DB00286,prostate cancer,Conjugated Estrogens,Drug# treats Disease#,0
+DOID:10283,DB06699,prostate cancer,Degarelix,Drug# treats Disease#,0
+DOID:10283,DB01248,prostate cancer,Docetaxel,Drug# treats Disease#,0
+DOID:10283,DB00997,prostate cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:10283,DB00445,prostate cancer,Epirubicin,Drug# treats Disease#,0
+DOID:10283,DB00783,prostate cancer,Estradiol,Drug# treats Disease#,0
+DOID:10283,DB08866,prostate cancer,Estradiol valerate/Dienogest,Drug# treats Disease#,0
+DOID:10283,DB01196,prostate cancer,Estramustine,Drug# treats Disease#,0
+DOID:10283,DB00655,prostate cancer,Estrone,Drug# treats Disease#,0
+DOID:10283,DB00977,prostate cancer,Ethinyl Estradiol,Drug# treats Disease#,0
+DOID:10283,DB00773,prostate cancer,Etoposide,Drug# treats Disease#,0
+DOID:10283,DB00499,prostate cancer,Flutamide,Drug# treats Disease#,0
+DOID:10283,DB00014,prostate cancer,Goserelin,Drug# treats Disease#,0
+DOID:10283,DB01204,prostate cancer,Mitoxantrone,Drug# treats Disease#,0
+DOID:10283,DB00665,prostate cancer,Nilutamide,Drug# treats Disease#,0
+DOID:10283,DB00635,prostate cancer,Prednisone,Drug# treats Disease#,0
+DOID:10283,DB00126,prostate cancer,Vitamin C,Drug# treats Disease#,0
+DOID:10283,DB00443,prostate cancer,Betamethasone,Drug# palliates Disease#,1
+DOID:10283,DB00482,prostate cancer,Celecoxib,Drug# palliates Disease#,1
+DOID:10283,DB01234,prostate cancer,Dexamethasone,Drug# palliates Disease#,1
+DOID:10283,DB00736,prostate cancer,Esomeprazole,Drug# palliates Disease#,1
+DOID:10283,DB00813,prostate cancer,Fentanyl,Drug# palliates Disease#,1
+DOID:10283,DB00741,prostate cancer,Hydrocortisone,Drug# palliates Disease#,1
+DOID:10283,DB01233,prostate cancer,Metoclopramide,Drug# palliates Disease#,1
+DOID:10283,DB00338,prostate cancer,Omeprazole,Drug# palliates Disease#,1
+DOID:10283,DB00706,prostate cancer,Tamsulosin,Drug# palliates Disease#,1
+DOID:10283,DB00513,prostate cancer,Aminocaproic Acid,Drug# neither treats nor palliates Disease#,2
+DOID:10283,DB00537,prostate cancer,Ciprofloxacin,Drug# neither treats nor palliates Disease#,2
+DOID:10283,DB01216,prostate cancer,Finasteride,Drug# neither treats nor palliates Disease#,2
+DOID:10283,DB01005,prostate cancer,Hydroxyurea,Drug# neither treats nor palliates Disease#,2
+DOID:10283,DB01065,prostate cancer,Melatonin,Drug# neither treats nor palliates Disease#,2
+DOID:10283,DB00331,prostate cancer,Metformin,Drug# neither treats nor palliates Disease#,2
+DOID:10283,DB00175,prostate cancer,Pravastatin,Drug# neither treats nor palliates Disease#,2
+DOID:10283,DB00230,prostate cancer,Pregabalin,Drug# neither treats nor palliates Disease#,2
+DOID:10283,DB00877,prostate cancer,Sirolimus,Drug# neither treats nor palliates Disease#,2
+DOID:10283,DB00399,prostate cancer,Zoledronate,Drug# neither treats nor palliates Disease#,2
+DOID:9008,DB00995,psoriatic arthritis,Auranofin,Drug# treats Disease#,0
+DOID:9008,DB00443,psoriatic arthritis,Betamethasone,Drug# treats Disease#,0
+DOID:9008,DB01234,psoriatic arthritis,Dexamethasone,Drug# treats Disease#,0
+DOID:9008,DB00563,psoriatic arthritis,Methotrexate,Drug# treats Disease#,0
+DOID:9008,DB00959,psoriatic arthritis,Methylprednisolone,Drug# treats Disease#,0
+DOID:9008,DB00860,psoriatic arthritis,Prednisolone,Drug# treats Disease#,0
+DOID:9008,DB00635,psoriatic arthritis,Prednisone,Drug# treats Disease#,0
+DOID:9008,DB00620,psoriatic arthritis,Triamcinolone,Drug# treats Disease#,0
+DOID:9835,DB01057,refractive error,Echothiophate,Drug# neither treats nor palliates Disease#,2
+DOID:0050425,DB00564,restless legs syndrome,Carbamazepine,Drug# palliates Disease#,1
+DOID:0050425,DB00190,restless legs syndrome,Carbidopa,Drug# palliates Disease#,1
+DOID:0050425,DB01068,restless legs syndrome,Clonazepam,Drug# palliates Disease#,1
+DOID:0050425,DB00575,restless legs syndrome,Clonidine,Drug# palliates Disease#,1
+DOID:0050425,DB00996,restless legs syndrome,Gabapentin,Drug# palliates Disease#,1
+DOID:0050425,DB01235,restless legs syndrome,L-DOPA,Drug# palliates Disease#,1
+DOID:0050425,DB00413,restless legs syndrome,Pramipexole,Drug# palliates Disease#,1
+DOID:0050425,DB00230,restless legs syndrome,Pregabalin,Drug# palliates Disease#,1
+DOID:0050425,DB00268,restless legs syndrome,Ropinirole,Drug# palliates Disease#,1
+DOID:0050425,DB00193,restless legs syndrome,Tramadol,Drug# palliates Disease#,1
+DOID:1115,DB00851,sarcoma,Dacarbazine,Drug# treats Disease#,0
+DOID:1115,DB00970,sarcoma,Dactinomycin,Drug# treats Disease#,0
+DOID:1115,DB00997,sarcoma,Doxorubicin,Drug# treats Disease#,0
+DOID:1115,DB00445,sarcoma,Epirubicin,Drug# treats Disease#,0
+DOID:1115,DB00773,sarcoma,Etoposide,Drug# treats Disease#,0
+DOID:1115,DB01204,sarcoma,Mitoxantrone,Drug# treats Disease#,0
+DOID:1115,DB04572,sarcoma,Thiotepa,Drug# treats Disease#,0
+DOID:1115,DB00541,sarcoma,Vincristine,Drug# treats Disease#,0
+DOID:1115,DB01042,sarcoma,Melphalan,Drug# neither treats nor palliates Disease#,2
+DOID:5419,DB01063,schizophrenia,Acetophenazine,Drug# palliates Disease#,1
+DOID:5419,DB01238,schizophrenia,Aripiprazole,Drug# palliates Disease#,1
+DOID:5419,DB00245,schizophrenia,Benzatropine,Drug# palliates Disease#,1
+DOID:5419,DB00564,schizophrenia,Carbamazepine,Drug# palliates Disease#,1
+DOID:5419,DB00477,schizophrenia,Chlorpromazine,Drug# palliates Disease#,1
+DOID:5419,DB01068,schizophrenia,Clonazepam,Drug# palliates Disease#,1
+DOID:5419,DB00363,schizophrenia,Clozapine,Drug# palliates Disease#,1
+DOID:5419,DB00434,schizophrenia,Cyproheptadine,Drug# palliates Disease#,1
+DOID:5419,DB00985,schizophrenia,Dimenhydrinate,Drug# palliates Disease#,1
+DOID:5419,DB01075,schizophrenia,Diphenhydramine,Drug# palliates Disease#,1
+DOID:5419,DB00402,schizophrenia,Eszopiclone,Drug# palliates Disease#,1
+DOID:5419,DB00472,schizophrenia,Fluoxetine,Drug# palliates Disease#,1
+DOID:5419,DB00623,schizophrenia,Fluphenazine,Drug# palliates Disease#,1
+DOID:5419,DB00502,schizophrenia,Haloperidol,Drug# palliates Disease#,1
+DOID:5419,DB00555,schizophrenia,Lamotrigine,Drug# palliates Disease#,1
+DOID:5419,DB01356,schizophrenia,Lithium,Drug# palliates Disease#,1
+DOID:5419,DB00408,schizophrenia,Loxapine,Drug# palliates Disease#,1
+DOID:5419,DB00933,schizophrenia,Mesoridazine,Drug# palliates Disease#,1
+DOID:5419,DB00334,schizophrenia,Olanzapine,Drug# palliates Disease#,1
+DOID:5419,DB01267,schizophrenia,Paliperidone,Drug# palliates Disease#,1
+DOID:5419,DB01224,schizophrenia,Quetiapine,Drug# palliates Disease#,1
+DOID:5419,DB00734,schizophrenia,Risperidone,Drug# palliates Disease#,1
+DOID:5419,DB01104,schizophrenia,Sertraline,Drug# palliates Disease#,1
+DOID:5419,DB00679,schizophrenia,Thioridazine,Drug# palliates Disease#,1
+DOID:5419,DB01623,schizophrenia,Thiothixene,Drug# palliates Disease#,1
+DOID:5419,DB00656,schizophrenia,Trazodone,Drug# palliates Disease#,1
+DOID:5419,DB00831,schizophrenia,Trifluoperazine,Drug# palliates Disease#,1
+DOID:5419,DB00313,schizophrenia,Valproic Acid,Drug# palliates Disease#,1
+DOID:5419,DB00246,schizophrenia,Ziprasidone,Drug# palliates Disease#,1
+DOID:5419,DB01198,schizophrenia,Zopiclone,Drug# palliates Disease#,1
+DOID:14268,DB01241,sclerosing cholangitis,Gemfibrozil,Drug# neither treats nor palliates Disease#,2
+DOID:10534,DB01101,stomach cancer,Capecitabine,Drug# treats Disease#,0
+DOID:10534,DB01248,stomach cancer,Docetaxel,Drug# treats Disease#,0
+DOID:10534,DB00997,stomach cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:10534,DB00445,stomach cancer,Epirubicin,Drug# treats Disease#,0
+DOID:10534,DB00322,stomach cancer,Floxuridine,Drug# treats Disease#,0
+DOID:10534,DB00544,stomach cancer,Fluorouracil,Drug# treats Disease#,0
+DOID:10534,DB00762,stomach cancer,Irinotecan,Drug# treats Disease#,0
+DOID:10534,DB00563,stomach cancer,Methotrexate,Drug# treats Disease#,0
+DOID:10534,DB00305,stomach cancer,Mitomycin,Drug# treats Disease#,0
+DOID:9074,DB00993,systemic lupus erythematosus,Azathioprine,Drug# treats Disease#,0
+DOID:9074,DB00443,systemic lupus erythematosus,Betamethasone,Drug# treats Disease#,0
+DOID:9074,DB00091,systemic lupus erythematosus,Cyclosporine,Drug# treats Disease#,0
+DOID:9074,DB00250,systemic lupus erythematosus,Dapsone,Drug# treats Disease#,0
+DOID:9074,DB01234,systemic lupus erythematosus,Dexamethasone,Drug# treats Disease#,0
+DOID:9074,DB00741,systemic lupus erythematosus,Hydrocortisone,Drug# treats Disease#,0
+DOID:9074,DB01097,systemic lupus erythematosus,Leflunomide,Drug# treats Disease#,0
+DOID:9074,DB00563,systemic lupus erythematosus,Methotrexate,Drug# treats Disease#,0
+DOID:9074,DB00959,systemic lupus erythematosus,Methylprednisolone,Drug# treats Disease#,0
+DOID:9074,DB00688,systemic lupus erythematosus,Mycophenolate mofetil,Drug# treats Disease#,0
+DOID:9074,DB00860,systemic lupus erythematosus,Prednisolone,Drug# treats Disease#,0
+DOID:9074,DB00635,systemic lupus erythematosus,Prednisone,Drug# treats Disease#,0
+DOID:9074,DB00620,systemic lupus erythematosus,Triamcinolone,Drug# treats Disease#,0
+DOID:9074,DB00945,systemic lupus erythematosus,Acetylsalicylic acid,Drug# palliates Disease#,1
+DOID:9074,DB00321,systemic lupus erythematosus,Amitriptyline,Drug# palliates Disease#,1
+DOID:9074,DB00482,systemic lupus erythematosus,Celecoxib,Drug# palliates Disease#,1
+DOID:9074,DB00996,systemic lupus erythematosus,Gabapentin,Drug# palliates Disease#,1
+DOID:9074,DB00814,systemic lupus erythematosus,Meloxicam,Drug# palliates Disease#,1
+DOID:9074,DB00788,systemic lupus erythematosus,Naproxen,Drug# palliates Disease#,1
+DOID:9074,DB00230,systemic lupus erythematosus,Pregabalin,Drug# palliates Disease#,1
+DOID:9074,DB00924,systemic lupus erythematosus,Cyclobenzaprine,Drug# neither treats nor palliates Disease#,2
+DOID:9074,DB00736,systemic lupus erythematosus,Esomeprazole,Drug# neither treats nor palliates Disease#,2
+DOID:9074,DB00158,systemic lupus erythematosus,Folic Acid,Drug# neither treats nor palliates Disease#,2
+DOID:9074,DB00722,systemic lupus erythematosus,Lisinopril,Drug# neither treats nor palliates Disease#,2
+DOID:9074,DB00338,systemic lupus erythematosus,Omeprazole,Drug# neither treats nor palliates Disease#,2
+DOID:418,DB00993,systemic scleroderma,Azathioprine,Drug# treats Disease#,0
+DOID:418,DB01197,systemic scleroderma,Captopril,Drug# treats Disease#,0
+DOID:418,DB01097,systemic scleroderma,Leflunomide,Drug# treats Disease#,0
+DOID:418,DB00722,systemic scleroderma,Lisinopril,Drug# treats Disease#,0
+DOID:418,DB00563,systemic scleroderma,Methotrexate,Drug# treats Disease#,0
+DOID:418,DB00764,systemic scleroderma,Mometasone,Drug# treats Disease#,0
+DOID:418,DB00688,systemic scleroderma,Mycophenolate mofetil,Drug# treats Disease#,0
+DOID:418,DB01024,systemic scleroderma,Mycophenolic acid,Drug# treats Disease#,0
+DOID:418,DB00806,systemic scleroderma,Pentoxifylline,Drug# treats Disease#,0
+DOID:418,DB00635,systemic scleroderma,Prednisone,Drug# treats Disease#,0
+DOID:418,DB00404,systemic scleroderma,Alprazolam,Drug# palliates Disease#,1
+DOID:418,DB00482,systemic scleroderma,Celecoxib,Drug# palliates Disease#,1
+DOID:418,DB01166,systemic scleroderma,Cilostazol,Drug# palliates Disease#,1
+DOID:418,DB01394,systemic scleroderma,Colchicine,Drug# palliates Disease#,1
+DOID:418,DB00586,systemic scleroderma,Diclofenac,Drug# palliates Disease#,1
+DOID:418,DB01240,systemic scleroderma,Epoprostenol,Drug# palliates Disease#,1
+DOID:418,DB00736,systemic scleroderma,Esomeprazole,Drug# palliates Disease#,1
+DOID:418,DB00281,systemic scleroderma,Lidocaine,Drug# palliates Disease#,1
+DOID:418,DB00814,systemic scleroderma,Meloxicam,Drug# palliates Disease#,1
+DOID:418,DB01233,systemic scleroderma,Metoclopramide,Drug# palliates Disease#,1
+DOID:418,DB01115,systemic scleroderma,Nifedipine,Drug# palliates Disease#,1
+DOID:418,DB00338,systemic scleroderma,Omeprazole,Drug# palliates Disease#,1
+DOID:418,DB00203,systemic scleroderma,Sildenafil,Drug# palliates Disease#,1
+DOID:418,DB00820,systemic scleroderma,Tadalafil,Drug# palliates Disease#,1
+DOID:418,DB00797,systemic scleroderma,Tolazoline,Drug# palliates Disease#,1
+DOID:418,DB00924,systemic scleroderma,Cyclobenzaprine,Drug# neither treats nor palliates Disease#,2
+DOID:418,DB00158,systemic scleroderma,Folic Acid,Drug# neither treats nor palliates Disease#,2
+DOID:418,DB00695,systemic scleroderma,Furosemide,Drug# neither treats nor palliates Disease#,2
+DOID:418,DB00916,systemic scleroderma,Metronidazole,Drug# neither treats nor palliates Disease#,2
+DOID:418,DB01017,systemic scleroderma,Minocycline,Drug# neither treats nor palliates Disease#,2
+DOID:418,DB05389,systemic scleroderma,WF10,Drug# neither treats nor palliates Disease#,2
+DOID:418,DB00425,systemic scleroderma,Zolpidem,Drug# neither treats nor palliates Disease#,2
+DOID:2998,DB00290,testicular cancer,Bleomycin,Drug# treats Disease#,0
+DOID:2998,DB00958,testicular cancer,Carboplatin,Drug# treats Disease#,0
+DOID:2998,DB00291,testicular cancer,Chlorambucil,Drug# treats Disease#,0
+DOID:2998,DB00515,testicular cancer,Cisplatin,Drug# treats Disease#,0
+DOID:2998,DB00970,testicular cancer,Dactinomycin,Drug# treats Disease#,0
+DOID:2998,DB00997,testicular cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:2998,DB00445,testicular cancer,Epirubicin,Drug# treats Disease#,0
+DOID:2998,DB00773,testicular cancer,Etoposide,Drug# treats Disease#,0
+DOID:2998,DB01181,testicular cancer,Ifosfamide,Drug# treats Disease#,0
+DOID:2998,DB00563,testicular cancer,Methotrexate,Drug# treats Disease#,0
+DOID:2998,DB00570,testicular cancer,Vinblastine,Drug# treats Disease#,0
+DOID:1781,DB00997,thyroid cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:1781,DB00445,thyroid cancer,Epirubicin,Drug# treats Disease#,0
+DOID:1781,DB00398,thyroid cancer,Sorafenib,Drug# treats Disease#,0
+DOID:1781,DB05294,thyroid cancer,Vandetanib,Drug# treats Disease#,0
+DOID:1781,DB00509,thyroid cancer,Dextrothyroxine,Drug# neither treats nor palliates Disease#,2
+DOID:1781,DB00451,thyroid cancer,Levothyroxine,Drug# neither treats nor palliates Disease#,2
+DOID:1781,DB00279,thyroid cancer,Liothyronine,Drug# neither treats nor palliates Disease#,2
+DOID:1781,DB01583,thyroid cancer,Liotrix,Drug# neither treats nor palliates Disease#,2
+DOID:9744,DB00178,type 1 diabetes mellitus,Ramipril,Drug# treats Disease#,0
+DOID:9744,DB00104,type 1 diabetes mellitus,Octreotide,Drug# palliates Disease#,1
+DOID:9744,DB00203,type 1 diabetes mellitus,Sildenafil,Drug# palliates Disease#,1
+DOID:9352,DB00284,type 2 diabetes mellitus,Acarbose,Drug# treats Disease#,0
+DOID:9352,DB01200,type 2 diabetes mellitus,Bromocriptine,Drug# treats Disease#,0
+DOID:9352,DB00672,type 2 diabetes mellitus,Chlorpropamide,Drug# treats Disease#,0
+DOID:9352,DB01120,type 2 diabetes mellitus,Gliclazide,Drug# treats Disease#,0
+DOID:9352,DB00222,type 2 diabetes mellitus,Glimepiride,Drug# treats Disease#,0
+DOID:9352,DB01067,type 2 diabetes mellitus,Glipizide,Drug# treats Disease#,0
+DOID:9352,DB01016,type 2 diabetes mellitus,Glyburide,Drug# treats Disease#,0
+DOID:9352,DB01029,type 2 diabetes mellitus,Irbesartan,Drug# treats Disease#,0
+DOID:9352,DB08882,type 2 diabetes mellitus,Linagliptin,Drug# treats Disease#,0
+DOID:9352,DB00678,type 2 diabetes mellitus,Losartan,Drug# treats Disease#,0
+DOID:9352,DB00331,type 2 diabetes mellitus,Metformin,Drug# treats Disease#,0
+DOID:9352,DB00491,type 2 diabetes mellitus,Miglitol,Drug# treats Disease#,0
+DOID:9352,DB00731,type 2 diabetes mellitus,Nateglinide,Drug# treats Disease#,0
+DOID:9352,DB01083,type 2 diabetes mellitus,Orlistat,Drug# treats Disease#,0
+DOID:9352,DB01132,type 2 diabetes mellitus,Pioglitazone,Drug# treats Disease#,0
+DOID:9352,DB00178,type 2 diabetes mellitus,Ramipril,Drug# treats Disease#,0
+DOID:9352,DB00912,type 2 diabetes mellitus,Repaglinide,Drug# treats Disease#,0
+DOID:9352,DB00412,type 2 diabetes mellitus,Rosiglitazone,Drug# treats Disease#,0
+DOID:9352,DB01261,type 2 diabetes mellitus,Sitagliptin,Drug# treats Disease#,0
+DOID:9352,DB00839,type 2 diabetes mellitus,Tolazamide,Drug# treats Disease#,0
+DOID:9352,DB01124,type 2 diabetes mellitus,Tolbutamide,Drug# treats Disease#,0
+DOID:9352,DB00177,type 2 diabetes mellitus,Valsartan,Drug# treats Disease#,0
+DOID:9352,DB01076,type 2 diabetes mellitus,Atorvastatin,Drug# neither treats nor palliates Disease#,2
+DOID:9352,DB00641,type 2 diabetes mellitus,Simvastatin,Drug# neither treats nor palliates Disease#,2
+DOID:9352,DB01273,type 2 diabetes mellitus,Varenicline,Drug# neither treats nor palliates Disease#,2
+DOID:8577,DB00993,ulcerative colitis,Azathioprine,Drug# treats Disease#,0
+DOID:8577,DB01014,ulcerative colitis,Balsalazide,Drug# treats Disease#,0
+DOID:8577,DB00443,ulcerative colitis,Betamethasone,Drug# treats Disease#,0
+DOID:8577,DB01222,ulcerative colitis,Budesonide,Drug# treats Disease#,0
+DOID:8577,DB00169,ulcerative colitis,Cholecalciferol,Drug# treats Disease#,0
+DOID:8577,DB01234,ulcerative colitis,Dexamethasone,Drug# treats Disease#,0
+DOID:8577,DB00741,ulcerative colitis,Hydrocortisone,Drug# treats Disease#,0
+DOID:8577,DB01033,ulcerative colitis,Mercaptopurine,Drug# treats Disease#,0
+DOID:8577,DB00244,ulcerative colitis,Mesalazine,Drug# treats Disease#,0
+DOID:8577,DB00959,ulcerative colitis,Methylprednisolone,Drug# treats Disease#,0
+DOID:8577,DB00184,ulcerative colitis,Nicotine,Drug# treats Disease#,0
+DOID:8577,DB01250,ulcerative colitis,Olsalazine,Drug# treats Disease#,0
+DOID:8577,DB00860,ulcerative colitis,Prednisolone,Drug# treats Disease#,0
+DOID:8577,DB00635,ulcerative colitis,Prednisone,Drug# treats Disease#,0
+DOID:8577,DB00795,ulcerative colitis,Sulfasalazine,Drug# treats Disease#,0
+DOID:8577,DB00620,ulcerative colitis,Triamcinolone,Drug# treats Disease#,0
+DOID:8577,DB00537,ulcerative colitis,Ciprofloxacin,Drug# neither treats nor palliates Disease#,2
+DOID:8577,DB00158,ulcerative colitis,Folic Acid,Drug# neither treats nor palliates Disease#,2
+DOID:11054,DB00958,urinary bladder cancer,Carboplatin,Drug# treats Disease#,0
+DOID:11054,DB00515,urinary bladder cancer,Cisplatin,Drug# treats Disease#,0
+DOID:11054,DB00997,urinary bladder cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:11054,DB00445,urinary bladder cancer,Epirubicin,Drug# treats Disease#,0
+DOID:11054,DB00773,urinary bladder cancer,Etoposide,Drug# treats Disease#,0
+DOID:11054,DB00544,urinary bladder cancer,Fluorouracil,Drug# treats Disease#,0
+DOID:11054,DB00441,urinary bladder cancer,Gemcitabine,Drug# treats Disease#,0
+DOID:11054,DB00563,urinary bladder cancer,Methotrexate,Drug# treats Disease#,0
+DOID:11054,DB00305,urinary bladder cancer,Mitomycin,Drug# treats Disease#,0
+DOID:11054,DB04572,urinary bladder cancer,Thiotepa,Drug# treats Disease#,0
+DOID:11054,DB00385,urinary bladder cancer,Valrubicin,Drug# treats Disease#,0
+DOID:363,DB00958,uterine cancer,Carboplatin,Drug# treats Disease#,0
+DOID:363,DB00970,uterine cancer,Dactinomycin,Drug# treats Disease#,0
+DOID:363,DB00997,uterine cancer,Doxorubicin,Drug# treats Disease#,0
+DOID:363,DB00445,uterine cancer,Epirubicin,Drug# treats Disease#,0
+DOID:363,DB00773,uterine cancer,Etoposide,Drug# treats Disease#,0
+DOID:363,DB00603,uterine cancer,Medroxyprogesterone Acetate,Drug# treats Disease#,0
+DOID:363,DB00396,uterine cancer,Progesterone,Drug# treats Disease#,0
+DOID:363,DB00917,uterine cancer,Dinoprostone,Drug# neither treats nor palliates Disease#,2
+DOID:363,DB00783,uterine cancer,Estradiol,Drug# neither treats nor palliates Disease#,2
+DOID:363,DB01005,uterine cancer,Hydroxyurea,Drug# neither treats nor palliates Disease#,2
+DOID:12306,DB00553,vitiligo,Methoxsalen,Drug# treats Disease#,0
+DOID:12306,DB00600,vitiligo,Monobenzone,Drug# palliates Disease#,1
