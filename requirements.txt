@@ -3,3 +3,6 @@ torch-geometric
 numpy
 matplotlib
 jupyter
+pandas
+scikit-learn
+seaborn
