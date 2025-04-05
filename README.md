@@ -10,15 +10,9 @@ and an extended discussion on Relational GCN (R-GCN) for multi-relational data.
 - **data/**  
   All the data we use. 
 
-<!-- - **docs/**  
-  Additional documentation on advanced GNN topics. -->
-
 - **notebooks/**  
   Tutorial notebooks explaining the theory and showing demos.
   
-<!-- - **src/**  
-  Python modules for GNN layers (`layers.py`) and models (`models.py`). -->
-
 ## Installation
 
 1. **Clone** this repo:
