@@ -6,3 +6,4 @@ jupyter
 pandas
 scikit-learn
 seaborn
+ipykernel
